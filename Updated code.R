@@ -1,16 +1,12 @@
-#-------------------------------------------------------------------------------
-# My comments are in similar blocks!
-#-------------------------------------------------------------------------------
 #setwd("/Users/max/Desktop/Illustration")
-setwd("/Users/max/Desktop/Illustration") # ADAM's
+setwd("/Users/max/Desktop/Illustration") 
 
 #install.packages("divDyn")
 
 library(divDyn)
 
 #dat <- read.csv("pbdb_data_final_v3.csv", sep=";" )
-dat <- read.csv("pbdb_data_final_v3.csv", sep=";" )# ADAM's
-seddat <- read.csv2("weathering_data.csv", sep=";" )
+dat <- read.csv("pbdb_data_final_v3.csv", sep=";" )
 
 dat <- dat[dat$family=="Cypraeidae",]
 
@@ -40,10 +36,6 @@ stgCondition <- c(
 # in these entries, use the stg indicated by the early_interval
 dat$stg[stgCondition] <- stgMin[stgCondition] 
 
-#-------------------------------------------------------------------------------
-# This does not make any sense to me, you are trying to read in a pdf
-# document as a csv!
-#-------------------------------------------------------------------------------
 
 ## url <- "https://github.com/divDyn/ddPhanero/blob/master/doc/1.0.1/dd_phanero.pdf"
 ## temp <- read.csv(file = url)
@@ -78,27 +70,23 @@ sum(table(dat$stg))/nrow(dat)
 # omit unbinned
 dats <- dat[!is.na(dat$stg),]
 
-#-------------------------------------------------------------------------------
-# The dataset does not have any paleozoic records, the lowest stg number is
-# 69, so this is actually not necessary!
-#-------------------------------------------------------------------------------
 # omit Paleozoic 
 dats <- dats[dats$stg > 66,]
 
-
+# Taxonomic ocurrence binning
 bsFull <- binstat(dats, tax="genus", bin="stg", 
                   coll="collection_no", ref="reference_no")
 
 bsFull$occs
 
+# Ocurrence collection binning
 bs <- binstat(dats, tax="genus", bin="stg", 
               coll="collection_no", ref="reference_no", duplicates=FALSE)
 bs$occs
 
-
+# Generate a plot 
 tsplot(stages, boxes="sys", boxes.col="systemCol", 
        shading="series", xlim=c(100, 0), ylim=c(0,450))
-
 
 tsplot(stages, boxes="sys", boxes.col="systemCol", 
        shading="series", xlim=c(100, 0), ylim=c(0,450), ylab="Number occurrences")
@@ -114,12 +102,6 @@ lines(stages$mid, bs$colls)
 # The divDyn function call
 dd <- divDyn(dats, tax="genus", bin="stg")
 
-#-------------------------------------------------------------------------------
-#  The warning here is there because there is a genus entry which is "".
-# These are usually poorly identifiable entries, that are given at different
-# taxonomic ranks (e.g. family, order, etc).
-# For this reason, I recommend removing some occurrences before you start the analyses
-#-------------------------------------------------------------------------------
 
 # taxonomic ranks of identification
 table(dats$identified_rank)
@@ -132,8 +114,6 @@ dd <- divDyn(dats, tax="genus", bin="stg")
 
 
 
-
-
 ?divDyn
 
 # simple diversity
@@ -141,9 +121,7 @@ tp(ylim=c(0,50), ylab="richness")
 lines(stages$mid, dd$divRT, lwd=2)
 
 
-#-------------------------------------------------------------------------------
-# You can ignore the warning here!
-#-------------------------------------------------------------------------------
+#Ignore the following warning
 
 cor.test(dd$divRT, bs$occs, method="spearman")
 
@@ -177,48 +155,40 @@ lines(stages$mid, sqsDD$divRT, lwd=2)
 tp(ylim=c(0,1), ylab="per capita turnover rates")   
 lines(stages$mid, dd$extPC, lwd=2, col="red")
 lines(stages$mid, dd$oriPC, lwd=2, col="green")
-lines(ages$mid, Organic.Carbon.Weathering.Flux.Forgw.$oriPC, lwd=2,col="blue")
 legend("topleft", legend=c("extinction", "origination"), 
-       col=c("red", "green"), lwd=2, cex=0.9, x.intersp=0.7, y.intersp=0.7, bty="o")
+       col=c("red", "green"), lwd=2, cex=0.6, x.intersp=0.7, y.intersp=0.7, bty="o")
+
+# Cross comparison between temperature and turnover components
+sExt <- scale(dd$extPC)
+sOri <- scale(dd$oriPC)
+sdiv <- scale(dd$divRT)
+sT <- scale(stages$T)
+
+#Temperature and Extinction turnover comparison
+tsplot(stages, boxes="sys", shading="sys", boxes.col="systemCol",, xlim=78:95, ylim=c(-2, 2), 
+       ylab="Temperature and turnover")
+lines(stages$mid, sT, col = "blue")
+lines(stages$mid, sExt, col = "red")
+legend("topleft", legend=c("Global temperatue", "extinction"), 
+       col=c("blue", "red"), lwd=2, cex=0.6, x.intersp=0.7, y.intersp=0.7, bty="o")
+
+# Temperature and Extinction turnover correlation test
+acf(sT[75:95])
+acf(sExt[75:94])
      
+  cor.test(diff(sT[75:94]),diff(sExt[75:94]))
 
+#Temperature and Origination turnover comparison
+  tsplot(stages, boxes="sys", shading="sys", boxes.col="systemCol",, xlim=78:95, ylim=c(-3, 3), 
+         ylab="Temperature and turnover")
+  lines(stages$mid, sT, col = "blue")
+  lines(stages$mid, sOri, col = "green")
+  lines(stages$mid, sExt, col = "red")
+  legend("topleft", legend=c("Global temperatue", "Origination", "extinction"), 
+         col=c("blue", "green", "red"), lwd=2, cex=0.6, x.intersp=0.7, y.intersp=0.7, bty="o")
 
-#-------------------------------------------------------------------------------
-# Plotting: I recommend plotting the processed data. You can do it with these
-# You can find more about this in the Climate and Earth System Data class' material
-# (vectors)
-
-
-library(chronosphere)
-ne <- fetch("NaturalEarth")
-
-
-
-# for faster plotting, consider plotting only the collections (less duplicates of coordinates)
-# Normalizing data for collection coordinates (every row is one collection), with the
-# basic longitude and latitude information
-colls <- unique(dats[, c("collection_no", "lng", "lat")])
-
-# this should work...
-points(colls$lng, colls$lat, pch=16,col="red",cex=0.5)
-
-
-
-#.. but it won't because these two columns are character vectors and not numerics
-str(colls)
-
-# I have to admit that I do not recognize this format "30.049.999". I thought that these
-# were degrees, minutes and seconds, but 999 does not make sense that way either, so I think
-# these might be there because of corrupted data.
-
-#################################################################################
-# IMPORTANT
-#################################################################################
-# Also, there are some DATES in the paleolng and paleolat columns, which can only happen if you
-# open and save the data in MS Excel or another spreadsheet software package. DO NOT DO THIS!
-# this process has compromised the downloaded dataset beyond repair.
-#
-# I recommend you to re-download the dataset, or use the one
-# in chronosphere, which you can access with:
-# pbdb <- fetch("pbdb", ver="20250519") # specific version from 2025-05-19
-#################################################################################
+# Temperature and Origination turnover correlation test
+  acf(sT[75:95])
+  acf(sOri[75:94])
+  
+  cor.test(diff(sT[75:94]),diff(sOri[75:94]))
