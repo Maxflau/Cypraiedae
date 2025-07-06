@@ -183,8 +183,7 @@ acf(sExt[75:94])
          ylab="Temperature and turnover")
   lines(stages$mid, sT, col = "blue")
   lines(stages$mid, sOri, col = "green")
-  lines(stages$mid, sExt, col = "red")
-  legend("topleft", legend=c("Global temperatue", "Origination", "extinction"), 
+  legend("topleft", legend=c("Global temperatue", "Origination"), 
          col=c("blue", "green", "red"), lwd=2, cex=0.6, x.intersp=0.7, y.intersp=0.7, bty="o")
 
 # Temperature and Origination turnover correlation test
