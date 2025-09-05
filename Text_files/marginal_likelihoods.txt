@@ -1,0 +1,3 @@
+file_name	model	TI_categories	replicate	PP_lik	BD_lik
+Phylogenetic_cowriesV2_1_BDS_se_est_DD_0_expSp_expEx_HP	expEx	1	0	0	0	0
+Phylogenetic_cowriesV2_1_BDS_se_est_temperature_0_expSp_expEx_HP	expEx	10	0	-2835.607	-1495.885	-1339.722
