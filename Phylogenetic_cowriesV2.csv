@@ -1,0 +1,1814 @@
+occurrence_no;record_type;reid_no;flags;collection_no;accepted_name;accepted_attr;accepted_rank;accepted_no;early_interval;late_interval;max_ma;min_ma
+38781;occ;NA;NA;2955;Gisortia mahgoobi;NA;species;111504;Lutetian;;48.07;41.03
+38801;occ;NA;NA;2958;Gisortia ibrahimi;NA;species;111505;Bartonian;;41.03;37.71
+38858;occ;NA;NA;2960;Bernaya quarunensis;NA;species;111506;Bartonian;;41.03;37.71
+40221;occ;NA;NA;3115;Bernaya;NA;genus;9543;Paleocene;;66;56
+42424;occ;NA;NA;3315;Barycypraea saltoensis;NA;species;158362;Late Eocene;;37.71;33.9
+42427;occ;NA;NA;3315;Gisortia colombiana;NA;species;158358;Late Eocene;;37.71;33.9
+44858;occ;NA;NA;3534;Cypraeorbis ventripotens;NA;species;342144;Bartonian;;41.03;37.71
+55997;occ;NA;NA;4187;Cypraea;NA;genus;9724;Late Maastrichtian;;72.2;66
+73264;occ;NA;NA;5344;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+73481;occ;NA;NA;5353;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+73524;occ;NA;NA;5354;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+73699;occ;NA;NA;5362;Cypraea;NA;genus;9724;Priabonian;;37.71;33.9
+73730;occ;NA;NA;5363;Cypraea;NA;genus;9724;Priabonian;;37.71;33.9
+73794;occ;NA;NA;5366;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+73857;occ;NA;NA;5367;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+74537;occ;NA;NA;5496;Bernaya grovesi;NA;species;342624;Ypresian;;56;48.07
+74933;occ;41332;NA;5542;Subepona leahae;NA;species;479093;Lutetian;;48.07;41.03
+85548;occ;32437;NA;6146;Bernaya (Bernaya) burlingtonensis;NA;species;335090;Late Campanian;;83.6;72.2
+95207;occ;NA;NA;6002;Cypraeorbis sphaeroides;NA;species;342312;Rupelian;;33.9;27.3
+95266;occ;NA;NA;6005;Cypraeorbis sphaeroides;NA;species;342312;Rupelian;;33.9;27.3
+97744;occ;32026;NA;7456;Bernaya (Protocypraea) mississippiensis;NA;species;335108;Early Campanian;Middle Campanian;83.6;72.2
+98090;occ;NA;NA;7472;Palaeocypraea (Palaeocypraea) corsicanana;NA;species;60033;Late Campanian;;83.6;72.2
+98329;occ;NA;NA;7480;Palaeocypraea nuciformis;NA;species;60042;Maastrichtian;;72.2;66
+98896;occ;NA;NA;7503;Palaeocypraea (Palaeocypraea) corsicanana;NA;species;60033;Late Campanian;;83.6;72.2
+101315;occ;NA;NA;7788;Cypraeorbis bulbus;NA;species;335387;Ypresian;;56;48.07
+101572;occ;NA;NA;7789;Cypraeorbis bulbus;NA;species;335387;Ypresian;;56;48.07
+101869;occ;NA;NA;7791;Gisortia brevis;NA;species;341983;Selandian;;61.66;59.24
+104036;occ;NA;NA;8124;Eopustularia brackleshamensis;NA;species;337369;Lutetian;;48.07;41.03
+110227;occ;NA;NA;8211;Zonaria globosa;NA;species;342272;Chattian;;27.3;23.04
+133022;occ;NA;NA;11117;Cypraea;NA;genus;9724;Paleocene;;66;56
+133023;occ;NA;NA;11117;Gisortia clarki;NA;species;162241;Paleocene;;66;56
+200466;occ;NA;NA;20816;Archicypraea;NA;genus;9494;Danian;;66;61.66
+205580;occ;NA;NA;22944;Protocypraea;NA;genus;10325;Selandian;;61.66;59.24
+205715;occ;NA;NA;22943;Palaeocypraea;NA;genus;10233;Danian;;66;61.66
+205716;occ;NA;NA;22943;Palaeocypraea;NA;genus;10233;Danian;;66;61.66
+205717;occ;NA;NA;22943;Protocypraea;NA;genus;10325;Danian;;66;61.66
+205719;occ;NA;NA;22943;Zonaria;NA;genus;10704;Danian;;66;61.66
+284157;occ;NA;NA;27021;Lyncina amygdalina;NA;species;341786;Thanetian;;59.24;56
+284190;occ;NA;NA;27020;Lyncina amygdalina;NA;species;341786;Thanetian;;59.24;56
+284191;occ;NA;NA;27020;Cypraea;NA;genus;9724;Thanetian;;59.24;56
+284292;occ;NA;NA;27018;Cypraea;NA;genus;9724;Thanetian;;59.24;56
+284393;occ;NA;NA;27019;Lyncina amygdalina;NA;species;341786;Thanetian;;59.24;56
+284394;occ;NA;NA;27019;Cypraea;NA;genus;9724;Thanetian;;59.24;56
+363752;occ;NA;NA;34467;Lyncina (Austrocypraea) archeri;NA;species;334848;Burdigalian;Langhian;20.45;13.82
+363753;occ;NA;NA;34467;Notoluponia murraviana;NA;species;342201;Burdigalian;Langhian;20.45;13.82
+363754;occ;NA;NA;34467;Cypraea;NA;genus;9724;Burdigalian;Langhian;20.45;13.82
+365289;occ;NA;NA;34609;Cypraeidae;NA;family;60047;Serravallian;;13.82;1.11
+366957;occ;NA;NA;34724;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+367032;occ;NA;NA;34723;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+367159;occ;NA;NA;34733;Cypraeidae;NA;family;60047;Tortonian;;1.11;7.246
+367324;occ;NA;NA;34739;Cypraea;NA;genus;9724;Serravallian;;13.82;1.11
+370611;occ;NA;NA;35081;Cypraea;NA;genus;9724;Danian;Selandian;66;59.24
+393986;occ;NA;NA;37938;Neobernaya spadicea;NA;species;335362;Quaternary;;1.02;0
+394151;occ;NA;NA;37937;Neobernaya spadicea;NA;species;335362;Quaternary;;1.02;0
+424976;occ;NA;NA;41473;Erosaria citrina;NA;species;338759;Late Miocene;;1.11;5.333
+425890;occ;NA;NA;41529;Erosaria poraria;NA;species;343049;Pliocene;;5.333;1.02
+426141;occ;NA;NA;41501;Cypraea problematica;NA;species;342576;Early Pleistocene;;1.02;0.774
+426715;occ;NA;NA;41600;Staphylaea limacina;NA;species;60038;Late Pliocene;;3.06;1.02
+426766;occ;NA;NA;41605;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+426783;occ;NA;NA;41606;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+427770;occ;NA;NA;41718;Cypraea problematica;NA;species;342576;Early Pleistocene;;1.02;0.774
+428076;occ;NA;NA;41749;Akleistostoma carolinensis;NA;species;335331;Pliocene;Pleistocene;5.333;0.0117
+428818;occ;NA;NA;5437;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+428819;occ;NA;NA;5437;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+428820;occ;NA;NA;5437;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+428821;occ;NA;NA;5437;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+429914;occ;NA;NA;5436;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+429915;occ;NA;NA;5436;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+429916;occ;NA;NA;5436;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+429917;occ;NA;NA;5436;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+429918;occ;NA;NA;5436;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+431236;occ;NA;NA;42113;Cypraea;NA;genus;9724;Lutetian;;48.07;41.03
+431286;occ;NA;NA;42121;Cypraea;NA;genus;9724;Early Pleistocene;;1.02;0.774
+431335;occ;NA;NA;42126;Gisortia (Vicetia) stefaninii;NA;species;343958;Ypresian;;56;48.07
+431343;occ;NA;NA;42127;Gisortia gigantea;NA;species;114125;Lutetian;;48.07;41.03
+431472;occ;NA;NA;42136;Gisortia (Vicetia) stefaninii;NA;species;343958;Priabonian;;37.71;33.9
+431535;occ;NA;NA;42144;Gisortia (Vicetia) stefaninii;NA;species;343958;Priabonian;;37.71;33.9
+432111;occ;NA;NA;42173;Erronea (Cribraria) cincta;NA;species;342027;Late Miocene;;1.11;5.333
+432197;occ;NA;NA;42224;Cypraea (Lyncina) lynx;NA;species;60039;Late Miocene;;1.11;5.333
+432508;occ;NA;NA;42250;Cypraea (Cypraeorbis) heilprinii;NA;species;342951;Burdigalian;;20.45;15.98
+432822;occ;NA;NA;42289;Barycypraea orangensis;NA;species;343027;Late Miocene;;1.11;5.333
+432823;occ;NA;NA;42289;Erosaria (Erosaria) kutaiana;NA;species;343000;Late Miocene;;1.11;5.333
+433085;occ;NA;NA;42294;Talparia (Arestorides) nahaensis;NA;species;339161;Late Pliocene;;3.6;2.58
+433086;occ;NA;NA;42294;Naria erosa;NA;species;60031;Late Pliocene;;3.6;2.58
+433129;occ;NA;NA;42305;Cypraea;NA;genus;9724;Calabrian;Middle Pleistocene;1.8;0.129
+433130;occ;NA;NA;42305;Cypraea (Lyncina) schilderorum;NA;species;338756;Calabrian;Middle Pleistocene;1.8;0.129
+433131;occ;NA;NA;42305;Lyncina carneola;NA;species;60026;Calabrian;Middle Pleistocene;1.8;0.129
+433132;occ;NA;NA;42305;Cypraea (Erosaria) helvola;NA;species;60034;Calabrian;Middle Pleistocene;1.8;0.129
+433609;occ;NA;NA;42362;Pustularia cicercula;NA;species;170606;Early Pleistocene;;2.58;0.774
+433721;occ;NA;NA;42339;Cypraea;NA;genus;9724;Late Miocene;;11.63;5.333
+433789;occ;NA;NA;42357;Naria erosa;NA;species;60031;Early Pleistocene;;2.58;0.774
+433801;occ;NA;NA;42356;Talostolida teres;NA;species;170596;Middle Pleistocene;;0.774;0.129
+433803;occ;NA;NA;42355;Cypraea (Staphylaea) nucleus;NA;species;170608;Middle Pleistocene;;0.774;0.129
+433804;occ;NA;NA;42355;Cypraea (Palmadusta) asellus;NA;species;60025;Middle Pleistocene;;0.774;0.129
+433863;occ;NA;NA;42347;Cypraea (Staphylaea) nucleus;NA;species;170608;Early Pleistocene;;1.02;0.774
+434051;occ;NA;NA;42419;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+434174;occ;NA;NA;42391;Afrozoila caputavisensis;NA;species;342010;Late Miocene;Pliocene;1.11;1.02
+434380;occ;NA;NA;42443;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+434593;occ;NA;NA;42459;Palaeocypraea (Palaeocypraea) libyca;NA;species;343965;Ypresian;;56;48.07
+434594;occ;NA;NA;42459;Eucypraea ahmadi;NA;species;58279;Ypresian;;56;48.07
+438268;occ;NA;NA;42488;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+438274;occ;NA;NA;42489;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+438321;occ;NA;NA;41760;Zonaria heilprinii;NA;species;249760;Burdigalian;;20.45;15.98
+438322;occ;NA;NA;41760;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+438852;occ;NA;NA;42828;Barycypraea saltoensis;NA;species;158362;Late Eocene;;37.71;33.9
+439266;occ;NA;NA;42577;Loxacypraea chilona;NA;species;187671;Late Oligocene;;27.3;23.04
+439272;occ;NA;NA;42579;Loxacypraea chilona;NA;species;187671;Late Oligocene;;27.3;23.04
+439274;occ;NA;NA;42603;Loxacypraea chilona;NA;species;187671;Aquitanian;;27.3;20.45
+440240;occ;NA;NA;43006;Pedicularia (Pedicularia);NA;subgenus;344086;Priabonian;;37.71;33.9
+440558;occ;NA;NA;43049;Loxacypraea chilona;NA;species;187671;Serravallian;;13.82;1.11
+441865;occ;NA;NA;43328;Cypraea;NA;genus;9724;Middle Eocene;;48.07;37.71
+442045;occ;NA;NA;43361;Cypraea;NA;genus;9724;Early Miocene;;27.3;15.98
+442055;occ;NA;NA;43365;Cypraea;NA;genus;9724;Early Miocene;;27.3;15.98
+442078;occ;NA;NA;43368;Cypraea;NA;genus;9724;Early Miocene;;27.3;15.98
+443909;occ;NA;NA;43722;Siphocypraea posei;NA;species;343167;Burdigalian;Langhian;20.45;13.82
+445315;occ;NA;NA;43809;Ovulum;NA;genus;91128;Early Miocene;Middle Miocene;27.3;11.63
+445361;occ;NA;NA;43814;Siphocypraea amandusi;NA;species;167382;Early Miocene;;27.3;15.98
+450549;occ;NA;NA;44233;Bernaya (Protocypraea) kayei;NA;species;314275;Coniacian;;89.8;85.7
+455978;occ;NA;NA;44959;Cypraea ohiroi;NA;species;336871;Langhian;;15.98;13.82
+457532;occ;NA;NA;45036;Cypraea;NA;genus;9724;Kaiatan;;39.1;36.7
+474012;occ;NA;NA;47022;Vicetia vredenburgi;NA;species;342047;Lutetian;;48.07;41.03
+494011;occ;NA;NA;42632;Loxacypraea chilona;NA;species;187671;Aquitanian;;23.04;20.45
+494029;occ;NA;NA;42627;Loxacypraea chilona;NA;species;187671;Aquitanian;;23.04;20.45
+500290;occ;NA;NA;35118;Cypraea;NA;genus;9724;Late Oligocene;;27.3;23.04
+501262;occ;NA;NA;42625;Loxacypraea chilona;NA;species;187671;Aquitanian;;23.04;20.45
+501271;occ;NA;NA;42615;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+502370;occ;NA;NA;51079;Cypraeidae;NA;family;60047;Waipawan;;56;52
+502447;occ;NA;NA;51084;Zoila chathamensis;NA;species;335720;Waipawan;;56;52
+502448;occ;NA;NA;51084;Cypraeidae;NA;family;60047;Waipawan;;56;52
+502466;occ;NA;NA;51085;Zoila;NA;genus;10703;Waipawan;;56;52
+502467;occ;NA;NA;51085;Notadusta;NA;genus;10188;Waipawan;;56;52
+513102;occ;NA;NA;51886;Muracypraea cayapa;NA;species;92435;Pliocene;;5.333;2.58
+514833;occ;23154;NA;41552;Muracypraea donmoorei;NA;species;167636;Early Pliocene;;5.333;3.6
+515024;occ;NA;NA;52132;Bernaya (Protocypraea) kohatica;NA;species;66787;Selandian;Thanetian;61.66;56
+515260;occ;27645;NA;52170;Muracypraea woodringi;NA;species;187675;Tortonian;;11.63;7.246
+515277;occ;27646;NA;52173;Muracypraea woodringi;NA;species;187675;Middle Miocene;;15.98;11.63
+515292;occ;27647;NA;52174;Muracypraea woodringi;NA;species;187675;Tortonian;;11.63;7.246
+515932;occ;NA;NA;52204;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+516185;occ;NA;NA;52205;Nucleolaria cowlitziana;NA;species;300491;Bartonian;;41.03;37.71
+516789;occ;NA;NA;52344;Cypraeorbis alabamensis;NA;species;341802;Lutetian;;48.07;41.03
+517380;occ;NA;NA;52429;Cypraea;NA;genus;9724;Ypresian;;56;48.07
+517961;occ;NA;NA;52528;Cypraeorbis boggsi;NA;species;146839;Bartonian;;41.03;37.71
+533884;occ;NA;NA;55237;Cypraea;NA;genus;9724;Chattian;;27.03;23.04
+535014;occ;NA;NA;55375;Lyncina camelopardalis;NA;species;342007;Pleistocene;Holocene;2.58;0
+535087;occ;NA;NA;55380;Erronea caurica;NA;species;60027;Pleistocene;Holocene;2.58;0
+535088;occ;NA;NA;55380;Erosaria erosa;NA;species;115607;Pleistocene;Holocene;2.58;0
+535098;occ;NA;NA;55381;Lyncina carneola;NA;species;60026;Pleistocene;Holocene;2.58;0
+535142;occ;NA;NA;55373;Erronea caurica;NA;species;60027;Pleistocene;Holocene;2.58;0
+535143;occ;NA;NA;55373;Erosaria ocellata;NA;species;335946;Pleistocene;Holocene;2.58;0
+535181;occ;NA;NA;55374;Pustularia cicercula;NA;species;170606;Pleistocene;Holocene;2.58;0
+535678;occ;NA;NA;55401;Cypraea (Mauritia) histrio;NA;species;305620;Pleistocene;;2.58;0.0117
+535795;occ;NA;NA;55403;Mauritia arabica;NA;species;60023;Pleistocene;;2.58;0.0117
+535935;occ;NA;NA;55431;Cypraea;NA;genus;9724;Priabonian;;37.71;33.9
+541784;occ;NA;NA;56687;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+541785;occ;NA;NA;56687;Pedicularia;NA;genus;10252;Messinian;;7.246;5.333
+561495;occ;NA;NA;58522;Luria isabella;NA;species;60036;Late Pliocene;;3.6;2.58
+561496;occ;NA;NA;58522;Pseudozonaria raymondrobertsi;NA;species;335320;Late Pliocene;;3.6;2.58
+562266;occ;NA;NA;58649;Propustularia caribaea;NA;species;71690;Early Miocene;;23.04;15.98
+562617;occ;NA;NA;58676;Macrocypraea zebra;NA;species;109181;Middle Miocene;;15.98;11.63
+562638;occ;NA;NA;58674;Macrocypraea zebra;NA;species;109181;Middle Miocene;;15.98;11.63
+563229;occ;NA;NA;58815;Muracypraea henekeni;NA;species;161733;Early Pliocene;;5.333;3.6
+563230;occ;NA;NA;58815;Cypraeorbis noveli;NA;species;109030;Early Pliocene;;5.333;3.6
+563231;occ;22339;NA;58815;Erosaria acicularis;NA;species;167365;Early Pliocene;;5.333;3.6
+563232;occ;NA;NA;58815;Zonaria spurcoides;NA;species;109032;Early Pliocene;;5.333;3.6
+563233;occ;NA;NA;58815;Luria (Basilitrona) patrespatriae;NA;species;109033;Early Pliocene;;5.333;3.6
+563667;occ;NA;NA;58821;Zonaria spurcoides;NA;species;109032;Early Pliocene;;5.333;3.6
+563668;occ;NA;NA;58821;Luria dominicensis;NA;species;109034;Early Pliocene;;5.333;3.6
+563713;occ;NA;NA;58822;Muracypraea henekeni;NA;species;161733;Early Pliocene;;5.333;3.6
+563769;occ;NA;NA;58824;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+564045;occ;NA;NA;58867;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+564114;occ;NA;NA;58869;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+564115;occ;22340;NA;58869;Erosaria acicularis;NA;species;167365;Late Miocene;;11.63;5.333
+565033;occ;NA;NA;59001;Muracypraea angustirima;NA;species;71940;Early Miocene;;23.04;15.98
+567076;occ;NA;NA;59330;Akleistostoma carolinensis;NA;species;335331;Early Pliocene;Late Pliocene;5.333;2.58
+567077;occ;NA;NA;59327;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+567078;occ;NA;NA;59308;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+567079;occ;NA;NA;59307;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+567080;occ;NA;NA;59309;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+567081;occ;NA;NA;59310;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+567683;occ;NA;NA;59484;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+572464;occ;NA;NA;60113;Luria dominicensis;NA;species;109034;Late Miocene;;11.63;5.333
+575142;occ;NA;NA;60144;Luria isabella;NA;species;60036;Burdigalian;;20.45;15.98
+576290;occ;27650;NA;60640;Muracypraea woodringi;NA;species;187675;Late Miocene;;11.63;5.333
+576532;occ;NA;NA;60662;Pseudozonaria telembiensis;NA;species;164291;Late Miocene;;11.63;5.333
+577463;occ;27651;NA;60754;Muracypraea woodringi;NA;species;187675;Middle Miocene;;15.98;11.63
+578274;occ;NA;NA;60881;Luria lurida;NA;species;115680;Pleistocene;;2.58;0.0117
+578291;occ;NA;NA;60880;Luria lurida;NA;species;115680;Pleistocene;;2.58;0.0117
+578347;occ;NA;NA;60886;Macrocypraea zebra;NA;species;109181;Pleistocene;;2.58;0.0117
+579235;occ;NA;NA;60979;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+579403;occ;NA;NA;60980;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+579598;occ;NA;NA;60985;Zonaria tumulus;NA;species;249757;Chattian;Aquitanian;27.03;20.45
+580350;occ;NA;NA;61051;Zonaria tumulus;NA;species;249757;Chattian;Aquitanian;27.03;20.45
+580535;occ;27644;NA;61086;Muracypraea woodringi;NA;species;187675;Middle Miocene;;15.98;11.63
+580536;occ;NA;NA;61086;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+580581;occ;NA;NA;61096;Zonaria tumulus;NA;species;249757;Chattian;Aquitanian;27.03;20.45
+580634;occ;NA;NA;61100;Zonaria tumulus;NA;species;249757;Chattian;Aquitanian;27.03;20.45
+580800;occ;NA;NA;61110;Zonaria tumulus;NA;species;249757;Chattian;Aquitanian;27.03;20.45
+581381;occ;NA;NA;60415;Cypraea;NA;genus;9724;Early Pliocene;;5.333;3.6
+581883;occ;NA;NA;60412;Cypraea;NA;genus;9724;Early Pliocene;;5.333;3.6
+583168;occ;NA;NA;61339;Cypraeidae;NA;family;60047;Piacenzian;;3.6;2.58
+589977;occ;NA;NA;62295;Erronea (Adusta) onyx;NA;species;342323;Late Pliocene;;3.6;2.58
+597065;occ;NA;NA;63288;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597066;occ;NA;NA;63288;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597067;occ;NA;NA;63288;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597076;occ;NA;NA;63292;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597210;occ;NA;NA;63300;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597236;occ;NA;NA;63312;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597237;occ;NA;NA;63312;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+597245;occ;NA;NA;63309;Zoila;NA;genus;10703;Middle Miocene;;15.98;11.63
+597281;occ;NA;NA;63318;Monetaria annulus;NA;species;60022;Late Pleistocene;;0.129;0.0117
+597368;occ;NA;NA;63321;Mauritia eglantina;NA;species;60030;Late Pleistocene;;0.129;0.0117
+597369;occ;NA;NA;63321;Cypraea (Mauritia) histrio;NA;species;305620;Late Pleistocene;;0.129;0.0117
+597410;occ;NA;NA;63317;Erronea errones;NA;species;60032;Late Pleistocene;;0.129;0.0117
+597855;occ;NA;NA;63356;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+597856;occ;NA;NA;63356;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+597857;occ;NA;NA;63356;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+597858;occ;NA;NA;63356;Mauritia eglantina;NA;species;60030;Late Pleistocene;;0.129;0.0117
+597859;occ;NA;NA;63356;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+599691;occ;NA;NA;63442;Umbilia (Umbilia) hesitata;NA;species;84140;Late Miocene;;11.63;5.333
+599734;occ;NA;NA;63703;Umbilia (Umbilia) hesitata;NA;species;84140;Late Pliocene;;3.6;2.58
+599735;occ;NA;NA;63702;Umbilia (Umbilia) hesitata;NA;species;84140;Late Pliocene;;3.6;2.58
+599736;occ;NA;NA;63701;Umbilia (Umbilia) hesitata;NA;species;84140;Late Pliocene;;3.6;2.58
+615276;occ;NA;NA;66141;Muracypraea angustirima;NA;species;71940;Early Miocene;;23.04;15.98
+620567;occ;NA;NA;66777;Cypraea;NA;genus;9724;Early Pleistocene;;2.58;0.774
+622887;occ;NA;NA;67070;Macrocypraea cervus;NA;species;156624;Middle Pleistocene;;0.774;0.129
+623096;occ;NA;NA;67077;Akleistostoma floridana;NA;species;343114;Late Pliocene;;3.6;2.58
+629959;occ;NA;NA;67887;Cypraea;NA;genus;9724;Otaian;;21.7;18.7
+631842;occ;NA;NA;67948;Cypraea (Luria) cinerea;NA;species;167360;Late Pleistocene;;0.129;0.0117
+631843;occ;NA;NA;67960;Cypraea (Luria) cinerea;NA;species;167360;Middle Pleistocene;;0.774;0.129
+631844;occ;22341;NA;67949;Erosaria acicularis;NA;species;167365;Middle Pleistocene;;0.774;0.129
+631845;occ;NA;NA;67947;Macrocypraea zebra;NA;species;109181;Middle Pleistocene;;0.774;0.129
+631846;occ;NA;NA;67948;Macrocypraea zebra;NA;species;109181;Late Pleistocene;;0.129;0.0117
+631847;occ;NA;NA;67960;Macrocypraea zebra;NA;species;109181;Middle Pleistocene;;0.774;0.129
+631848;occ;NA;NA;67967;Macrocypraea zebra;NA;species;109181;Late Pleistocene;;0.129;0.0117
+633403;occ;NA;NA;68180;Cypraea (Luria) isabella lekalekana;NA;subspecies;115685;Pliocene;;5.333;2.58
+633404;occ;NA;NA;68180;Cypraea (Cypraea);NA;subgenus;91944;Pliocene;;5.333;2.58
+633405;occ;NA;NA;68180;Cypraea (Erronea) mbalavuensis;NA;species;343046;Pliocene;;5.333;2.58
+633406;occ;NA;NA;68180;Erosaria eburnea;NA;species;91939;Pliocene;;5.333;2.58
+633422;occ;NA;NA;68181;Cypraea (Erronea) mbalavuensis;NA;species;343046;Pliocene;;5.333;2.58
+633423;occ;NA;NA;68181;Erosaria eburnea;NA;species;91939;Pliocene;;5.333;2.58
+633424;occ;NA;NA;68181;Pustularia margarita;NA;species;91936;Pliocene;;5.333;2.58
+633425;occ;NA;NA;68181;Cypraea (Staphylaea) nucleus;NA;species;170608;Pliocene;;5.333;2.58
+641068;occ;NA;NA;68971;Cypraea;NA;genus;9724;Burdigalian;;20.45;15.98
+646332;occ;NA;NA;69812;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+646417;occ;NA;NA;69860;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+646492;occ;NA;NA;69864;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+648160;occ;NA;NA;70064;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+648997;occ;NA;NA;70077;Barycypraea murisimilis;NA;species;127321;Late Miocene;;11.63;5.333
+648998;occ;NA;NA;70081;Barycypraea murisimilis;NA;species;127321;Middle Miocene;;15.98;11.63
+648999;occ;NA;NA;63040;Barycypraea murisimilis;NA;species;127321;Middle Miocene;;15.98;11.63
+649000;occ;NA;NA;70098;Barycypraea murisimilis;NA;species;127321;Late Miocene;;11.63;5.333
+649001;occ;NA;NA;70100;Barycypraea murisimilis;NA;species;127321;Late Miocene;;11.63;5.333
+649002;occ;NA;NA;70081;Barycypraea orangensis;NA;species;343027;Middle Miocene;;15.98;11.63
+649003;occ;NA;NA;70107;Barycypraea suryai;NA;species;342297;Middle Miocene;;15.98;11.63
+649004;occ;NA;NA;70081;Barycypraea suryai;NA;species;342297;Middle Miocene;;15.98;11.63
+649006;occ;NA;NA;70100;Barycypraea bensoni;NA;species;341926;Late Miocene;;11.63;5.333
+649007;occ;NA;NA;70077;Barycypraea bensoni;NA;species;341926;Late Miocene;;11.63;5.333
+649008;occ;NA;NA;70124;Zonarina subelongata;NA;species;342299;Early Miocene;;23.04;15.98
+649009;occ;NA;NA;70100;Cypraea tigris;NA;species;60045;Late Miocene;;11.63;5.333
+649010;occ;NA;NA;70100;Mauritia arabica;NA;species;60023;Late Miocene;;11.63;5.333
+649011;occ;NA;NA;70086;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+649012;occ;NA;NA;70085;Cypraea (Aricia) simplicissima;NA;species;342210;Middle Miocene;;15.98;11.63
+649013;occ;NA;NA;70100;Barycypraea murisimilis;NA;species;127321;Late Miocene;;11.63;5.333
+649014;occ;NA;NA;70100;Cypraea (Lyncina) lynx;NA;species;60039;Late Miocene;;11.63;5.333
+649018;occ;NA;NA;70105;Cypraea (Lyncina) vitellus;NA;species;60046;Pliocene;;5.333;2.58
+649019;occ;NA;NA;70081;Cypraea (Lyncina) vitellus;NA;species;60046;Middle Miocene;;15.98;11.63
+649020;occ;NA;NA;63040;Cypraea (Lyncina) vitellus;NA;species;60046;Middle Miocene;;15.98;11.63
+649022;occ;NA;NA;70121;Naria erosa;NA;species;60031;Middle Miocene;;15.98;11.63
+649023;occ;NA;NA;70084;Naria erosa;NA;species;60031;Late Pliocene;;3.6;2.58
+649024;occ;NA;NA;63040;Naria erosa;NA;species;60031;Middle Miocene;;15.98;11.63
+649025;occ;NA;NA;70077;Naria erosa;NA;species;60031;Late Miocene;;11.63;5.333
+649026;occ;NA;NA;70079;Erosaria (Erosaria) pliostaphylaea;NA;species;342819;Late Pliocene;;3.6;2.58
+649027;occ;NA;NA;70084;Erosaria (Erosaria) pliostaphylaea;NA;species;342819;Late Pliocene;;3.6;2.58
+649032;occ;NA;NA;70085;Erronea (Adusta) ijzermani;NA;species;342678;Middle Miocene;;15.98;11.63
+649033;occ;NA;NA;70107;Pustularia kamai;NA;species;337389;Middle Miocene;;15.98;11.63
+649034;occ;NA;NA;70081;Pustularia kamai;NA;species;337389;Middle Miocene;;15.98;11.63
+649035;occ;NA;NA;70079;Erronea (Adusta) jungens;NA;species;342985;Late Pliocene;;3.6;2.58
+649036;occ;NA;NA;70085;Erronea (Adusta) proxima;NA;species;343961;Middle Miocene;;15.98;11.63
+649037;occ;NA;NA;70085;Erronea (Adusta) rembangensis;NA;species;343315;Middle Miocene;;15.98;11.63
+649038;occ;NA;NA;70085;Erronea (Adusta) sondeiana;NA;species;342838;Middle Miocene;;15.98;11.63
+649040;occ;NA;NA;70084;Erronea (Adusta) semicostata;NA;species;342496;Late Pliocene;;3.6;2.58
+649041;occ;NA;NA;70084;Erronea (Adusta) sondeiana;NA;species;342838;Late Pliocene;;3.6;2.58
+649042;occ;NA;NA;70079;Erronea (Adusta) sondeiana;NA;species;342838;Late Pliocene;;3.6;2.58
+649213;occ;NA;NA;70085;Erronea (Cribraria) cincta;NA;species;342027;Middle Miocene;;15.98;11.63
+649214;occ;NA;NA;70086;Notadusta egregia;NA;species;342485;Middle Miocene;;15.98;11.63
+649215;occ;NA;NA;70086;Notadusta spolongensis;NA;species;342310;Middle Miocene;;15.98;11.63
+649217;occ;NA;NA;70084;Palmadusta (Palmadusta) modjokertensis;NA;species;342334;Late Pliocene;;3.6;2.58
+649219;occ;NA;NA;70085;Pustularia lodanensis;NA;species;337391;Middle Miocene;;15.98;11.63
+649222;occ;NA;NA;70085;Erosaria everwijni;NA;species;337387;Middle Miocene;;15.98;11.63
+649223;occ;NA;NA;70086;Erosaria everwijni;NA;species;337387;Middle Miocene;;15.98;11.63
+649227;occ;NA;NA;70079;Staphylaea (Nuclearia) soloensis;NA;species;342221;Late Pliocene;;3.6;2.58
+649230;occ;NA;NA;70084;Afrozoila kendengensis;NA;species;342875;Late Pliocene;;3.6;2.58
+649231;occ;NA;NA;70121;Cypraea (Staphylaea) nucleus;NA;species;170608;Middle Miocene;;15.98;11.63
+649335;occ;NA;NA;70138;Cypraea (Aricia) beberkiriana;NA;species;341896;Late Miocene;;11.63;5.333
+650312;occ;NA;NA;70306;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+652809;occ;NA;NA;70513;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+654976;occ;NA;NA;70717;Notoluponia pyrulata;NA;species;338761;Early Miocene;;23.04;15.98
+655007;occ;NA;NA;70714;Lyncina (Austrocypraea) archeri;NA;species;334848;Early Miocene;;23.04;15.98
+655008;occ;NA;NA;70714;Zoila gigas;NA;species;335748;Early Miocene;;23.04;15.98
+655009;occ;NA;NA;70714;Lyncina (Austrocypraea) scalena;NA;species;338763;Early Miocene;;23.04;15.98
+655010;occ;NA;NA;70714;Zoila platypyga;NA;species;335737;Early Miocene;;23.04;15.98
+655011;occ;NA;NA;70714;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+655414;occ;NA;NA;70785;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+655452;occ;NA;NA;70786;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+655913;occ;NA;NA;70860;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+655956;occ;NA;NA;70861;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+656023;occ;NA;NA;70863;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+656111;occ;NA;NA;70864;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+656311;occ;NA;NA;70880;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+656366;occ;NA;NA;70882;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+656568;occ;NA;NA;70887;Cypraea;NA;genus;9724;Messinian;;7.246;5.333
+658777;occ;NA;NA;71048;Cypraea;NA;genus;9724;Late Miocene;;11.63;5.333
+661168;occ;NA;NA;71237;Umbilia (Umbilia) platyrhyncha;NA;species;334867;Late Oligocene;;27.03;23.04
+662317;occ;NA;NA;71238;Zoila;NA;genus;10703;Late Oligocene;Early Miocene;27.03;15.98
+662318;occ;NA;NA;71238;Austrocypraea contusa;NA;species;337405;Late Oligocene;Early Miocene;27.03;15.98
+662321;occ;NA;NA;71238;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Late Oligocene;Early Miocene;27.03;15.98
+662340;occ;NA;NA;71238;Zoila gigas;NA;species;335748;Late Oligocene;Early Miocene;27.03;15.98
+662370;occ;NA;NA;71239;Notadusta victoriana;NA;species;335815;Early Miocene;;23.04;15.98
+662382;occ;NA;NA;71240;Zoila mulderi;NA;species;335728;Early Miocene;;23.04;15.98
+662397;occ;NA;NA;71241;Zoila mulderi;NA;species;335728;Early Miocene;;23.04;15.98
+662399;occ;NA;NA;71241;Zoila gigas;NA;species;335748;Early Miocene;;23.04;15.98
+662400;occ;NA;NA;71241;Umbilia (Palliocypraea) gastroplax;NA;species;335772;Early Miocene;;23.04;15.98
+662401;occ;NA;NA;71241;Umbilia (Umbilia) eximia;NA;species;84137;Early Miocene;;23.04;15.98
+662419;occ;NA;NA;71242;Zoila platypyga;NA;species;335737;Middle Miocene;;15.98;11.63
+662436;occ;NA;NA;71351;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+662441;occ;NA;NA;71351;Notadusta victoriana;NA;species;335815;Middle Miocene;;15.98;11.63
+662444;occ;NA;NA;71351;Umbilia (Palliocypraea) gastroplax;NA;species;335772;Middle Miocene;;15.98;11.63
+662445;occ;NA;NA;71351;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+662451;occ;NA;NA;71351;Zoila platypyga;NA;species;335737;Middle Miocene;;15.98;11.63
+662460;occ;NA;NA;71352;Umbilia (Umbilia) hesitata;NA;species;84140;Middle Miocene;;15.98;11.63
+662472;occ;NA;NA;71352;Zoila gigas;NA;species;335748;Middle Miocene;;15.98;11.63
+662475;occ;NA;NA;71352;Austrocypraea contusa;NA;species;337405;Middle Miocene;;15.98;11.63
+667473;occ;NA;NA;71916;Zonaria porcellus;NA;species;164299;Zanclean;;5.333;3.6
+668091;occ;NA;NA;72033;Afrozoila schilderi;NA;species;100880;Early Miocene;;23.04;15.98
+668092;occ;NA;NA;72033;Stolida (Cribraria) quilonensis;NA;species;343170;Early Miocene;;23.04;15.98
+668093;occ;NA;NA;72033;Zonaria simonnei;NA;species;100883;Early Miocene;;23.04;15.98
+668094;occ;NA;NA;72033;Zonaria travancorica;NA;species;100884;Early Miocene;;23.04;15.98
+669280;occ;NA;NA;72098;Erosaria (Erosaria) sabahensis;NA;species;343055;Pliocene;Pleistocene;5.333;0.0117
+669281;occ;NA;NA;72098;Erronea (Adusta) cowiei;NA;species;343111;Pliocene;Pleistocene;5.333;0.0117
+669282;occ;NA;NA;72098;Erronea (Adusta) posewitzi;NA;species;343112;Pliocene;Pleistocene;5.333;0.0117
+669450;occ;NA;NA;72102;Erosaria (Erosaria) sabahensis;NA;species;343055;Pliocene;Pleistocene;5.333;0.0117
+669451;occ;NA;NA;72102;Erronea (Adusta) cowiei;NA;species;343111;Pliocene;Pleistocene;5.333;0.0117
+669452;occ;NA;NA;72102;Erronea (Adusta) posewitzi;NA;species;343112;Pliocene;Pleistocene;5.333;0.0117
+669516;occ;NA;NA;72187;Umbilia (Umbilia) siphonata;NA;species;84145;Middle Miocene;;15.98;11.63
+669524;occ;NA;NA;72189;Umbilia (Umbilia) hesitata;NA;species;84140;Late Miocene;;11.63;5.333
+669535;occ;NA;NA;72190;Umbilia (Umbilia) siphonata;NA;species;84145;Late Miocene;;11.63;5.333
+669543;occ;NA;NA;72191;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+669544;occ;NA;NA;72191;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+669549;occ;NA;NA;72192;Umbilia (Umbilia) hesitata;NA;species;84140;Late Miocene;;11.63;5.333
+669557;occ;NA;NA;72193;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+669558;occ;NA;NA;72193;Umbilia (Umbilia) eximia;NA;species;84137;Early Miocene;;23.04;15.98
+669579;occ;NA;NA;72196;Umbilia (Umbilia) siphonata;NA;species;84145;Middle Miocene;;15.98;11.63
+669591;occ;NA;NA;72197;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+669592;occ;NA;NA;72197;Umbilia (Umbilia) siphonata;NA;species;84145;Middle Miocene;;15.98;11.63
+669602;occ;NA;NA;72199;Umbilia (Umbilia) prosila;NA;species;84143;Late Oligocene;;27.03;23.04
+669613;occ;NA;NA;72200;Umbilia (Umbilia) eximia;NA;species;84137;Early Miocene;;23.04;15.98
+669618;occ;NA;NA;72201;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+669619;occ;NA;NA;72201;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+669620;occ;NA;NA;72201;Umbilia (Umbilia) siphonata;NA;species;84145;Middle Miocene;;15.98;11.63
+669621;occ;NA;NA;72201;Umbilia (Palliocypraea) gastroplax;NA;species;335772;Middle Miocene;;15.98;11.63
+669626;occ;NA;NA;72201;Austrocypraea contusa;NA;species;337405;Middle Miocene;;15.98;11.63
+669976;occ;NA;NA;72226;Umbilia (Umbilia) hesitata;NA;species;84140;Late Miocene;;11.63;5.333
+669994;occ;NA;NA;72236;Umbilia (Umbilia) platyrhyncha;NA;species;334867;Late Oligocene;;27.03;23.04
+670001;occ;NA;NA;72232;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+670020;occ;NA;NA;72234;Umbilia (Umbilia) eximia;NA;species;84137;Late Miocene;;11.63;5.333
+685445;occ;NA;NA;73800;Cypraea;NA;genus;9724;Miocene;;23.04;5.333
+695274;occ;NA;NA;74861;Schilderia amygdalum;NA;species;340717;Aquitanian;;23.04;20.45
+695300;occ;NA;NA;74861;Mandolina rhomboidalis;NA;species;340288;Aquitanian;;23.04;20.45
+695301;occ;NA;NA;74861;Trona leporina;NA;species;249742;Aquitanian;;23.04;20.45
+695302;occ;NA;NA;74861;Zonarina pinguis;NA;species;336819;Aquitanian;;23.04;20.45
+695361;occ;NA;NA;74861;Schilderia subannularia;NA;species;340230;Aquitanian;;23.04;20.45
+695362;occ;32102;NA;74861;Lyncina magnifica;NA;species;336813;Aquitanian;;23.04;20.45
+695482;occ;NA;NA;74861;Prozonarina expansa;NA;species;340282;Aquitanian;;23.04;20.45
+695491;occ;NA;NA;74861;Jousseaumea diluviana;NA;species;114854;Aquitanian;;23.04;20.45
+695512;occ;NA;NA;74861;Fossacypraea eburnina;NA;species;339675;Aquitanian;;23.04;20.45
+695523;occ;NA;NA;74861;Lyncina tumida;NA;species;340284;Aquitanian;;23.04;20.45
+695587;occ;NA;NA;74861;Fossacypraea apiceproducta;NA;species;336396;Aquitanian;;23.04;20.45
+696138;occ;NA;NA;74924;Trona trinitatensis;NA;species;106997;Early Miocene;;23.04;15.98
+696853;occ;NA;NA;74958;Cypraea;NA;genus;9724;Langhian;;15.98;13.82
+696947;occ;NA;NA;74961;Cypraea;NA;genus;9724;Zanclean;;5.333;3.6
+697471;occ;NA;NA;74967;Erosaria spurca;NA;species;109031;Messinian;Zanclean;7.246;3.6
+697486;occ;NA;NA;74967;Luria isabella;NA;species;60036;Messinian;Zanclean;7.246;3.6
+698224;occ;NA;NA;74970;Zonaria;NA;genus;10704;Zanclean;;5.333;3.6
+698646;occ;NA;NA;75040;Cypraea;NA;genus;9724;Messinian;Zanclean;7.246;3.6
+700904;occ;NA;NA;75036;Erosaria spurca;NA;species;109031;Messinian;Zanclean;7.246;3.6
+700905;occ;NA;NA;75036;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;Zanclean;7.246;3.6
+700912;occ;NA;NA;74966;Muracypraea henekeni;NA;species;161733;Messinian;Zanclean;7.246;3.6
+700916;occ;NA;NA;75038;Erosaria spurca;NA;species;109031;Messinian;Zanclean;7.246;3.6
+700917;occ;NA;NA;75038;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;Zanclean;7.246;3.6
+700918;occ;NA;NA;75038;Luria isabella;NA;species;60036;Messinian;Zanclean;7.246;3.6
+700919;occ;NA;NA;75038;Muracypraea henekeni;NA;species;161733;Messinian;Zanclean;7.246;3.6
+700929;occ;NA;NA;75037;Muracypraea henekeni;NA;species;161733;Messinian;Zanclean;7.246;3.6
+700981;occ;NA;NA;75314;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+700989;occ;NA;NA;75313;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+701031;occ;NA;NA;75315;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+701071;occ;NA;NA;74964;Macrocypraea zebra;NA;species;109181;Zanclean;;5.333;3.6
+701073;occ;NA;NA;74965;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+701074;occ;NA;NA;74965;Muracypraea henekeni;NA;species;161733;Zanclean;;5.333;3.6
+701089;occ;NA;NA;74959;Erosaria spurca;NA;species;109031;Langhian;;15.98;13.82
+702807;occ;NA;NA;74968;Cypraea (Luria) cinerea;NA;species;167360;Zanclean;;5.333;3.6
+702808;occ;NA;NA;74968;Macrocypraea;NA;genus;10084;Zanclean;;5.333;3.6
+702809;occ;NA;NA;74968;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+702810;occ;NA;NA;74968;Cypraeorbis noveli;NA;species;109030;Zanclean;;5.333;3.6
+702811;occ;NA;NA;74968;Pseudozonaria raymondrobertsi;NA;species;335320;Zanclean;;5.333;3.6
+702818;occ;NA;NA;74968;Erosaria spurca;NA;species;109031;Zanclean;;5.333;3.6
+702823;occ;NA;NA;74967;Muracypraea henekeni;NA;species;161733;Messinian;Zanclean;7.246;3.6
+702834;occ;NA;NA;75040;Zonaria spurcoides;NA;species;109032;Messinian;Zanclean;7.246;3.6
+702835;occ;NA;NA;75040;Muracypraea henekeni;NA;species;161733;Messinian;Zanclean;7.246;3.6
+702841;occ;NA;NA;75043;Erosaria spurca;NA;species;109031;Messinian;Zanclean;7.246;3.6
+702842;occ;NA;NA;75043;Cypraeorbis noveli;NA;species;109030;Messinian;Zanclean;7.246;3.6
+711742;occ;NA;NA;76202;Prozonarina maxima;NA;species;105975;Chattian;;27.03;23.04
+711743;occ;NA;NA;76195;Prozonarina maxima;NA;species;105975;Chattian;;27.03;23.04
+711744;occ;NA;NA;76195;Proadusta parvitala;NA;species;105966;Chattian;;27.03;23.04
+711746;occ;NA;NA;76199;Proadusta parvitala;NA;species;105966;Rupelian;;33.9;27.03
+711748;occ;NA;NA;76195;Proadusta inaequilabiata;NA;species;105957;Chattian;;27.03;23.04
+712038;occ;27642;NA;66164;Muracypraea;NA;genus;109216;Middle Miocene;;15.98;11.63
+712078;occ;NA;NA;76319;Cypraea;NA;genus;9724;Holocene;;0.0117;0
+713941;occ;27643;NA;76566;Muracypraea;NA;genus;109216;Middle Miocene;;15.98;11.63
+714299;occ;NA;NA;76601;Cypraea;NA;genus;9724;Ypresian;;56;48.07
+714650;occ;NA;NA;76588;Barycypraea singuensis;NA;species;113059;Chattian;;27.03;23.04
+717162;occ;NA;NA;76993;Vicetia sowerbyi;NA;species;342467;Early Eocene;;56;48.07
+717164;occ;NA;NA;76993;Bernaya (Bernaya) ellipsoides;NA;species;343061;Early Eocene;;56;48.07
+718754;occ;NA;NA;42125;Gisortia gigantea;NA;species;114125;Lutetian;;48.07;41.03
+718877;occ;NA;NA;77173;Callistocypraea (Miolyncina) prunum;NA;species;113704;Early Miocene;;23.04;15.98
+718878;occ;NA;NA;77173;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+718880;occ;NA;NA;77172;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+718881;occ;NA;NA;77172;Callistocypraea (Miolyncina) prunum;NA;species;113704;Early Miocene;;23.04;15.98
+718904;occ;NA;NA;77171;Callistocypraea (Miolyncina) prunum;NA;species;113704;Early Miocene;;23.04;15.98
+718905;occ;NA;NA;77171;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+718932;occ;NA;NA;77168;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+718938;occ;NA;NA;77165;Erronea (Gratiadusta) nasuta;NA;species;113705;Early Miocene;;23.04;15.98
+718958;occ;NA;NA;77164;Erronea (Gratiadusta) nasuta;NA;species;113705;Early Miocene;;23.04;15.98
+718959;occ;NA;NA;77164;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+718995;occ;NA;NA;77159;Cypraea (Erosaria) sindiensis;NA;species;113710;Rupelian;;33.9;27.03
+719001;occ;NA;NA;77160;Barycypraea humerosa;NA;species;113707;Early Miocene;;23.04;15.98
+719751;occ;NA;NA;77236;Gisortia;NA;genus;9895;Priabonian;;37.71;33.9
+719832;occ;NA;NA;77254;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+721164;occ;NA;NA;77381;Gisortia murchisoni;NA;species;114122;Lutetian;;48.07;41.03
+721165;occ;NA;NA;77396;Gisortia gigantea;NA;species;114125;Late Eocene;;37.71;33.9
+721166;occ;NA;NA;77382;Gisortia gigantea;NA;species;114125;Lutetian;;48.07;41.03
+721167;occ;NA;NA;77376;Gisortia gigantea;NA;species;114125;Lutetian;;48.07;41.03
+721768;occ;NA;NA;77450;Cypraea (Erosaria) sindiensis;NA;species;113710;Early Oligocene;;33.9;27.03
+721867;occ;NA;NA;77477;Callistocypraea (Miolyncina) prunum;NA;species;113704;Burdigalian;;20.45;15.98
+721868;occ;NA;NA;77475;Callistocypraea (Miolyncina) prunum;NA;species;113704;Burdigalian;;20.45;15.98
+721870;occ;NA;NA;77477;Luria (Basilitrona) jenkinsi;NA;species;343962;Burdigalian;;20.45;15.98
+722562;occ;NA;NA;77527;Cypraea;NA;genus;9724;Pliocene;;5.333;2.58
+722565;occ;NA;NA;77527;Lyncina carneola;NA;species;60026;Pliocene;;5.333;2.58
+722937;occ;NA;NA;77629;Zonaria dertamygdaloides;NA;species;114846;Early Miocene;;23.04;15.98
+722972;occ;NA;NA;77627;Zonaria dertamygdaloides;NA;species;114846;Early Miocene;;23.04;15.98
+723080;occ;NA;NA;77646;Callistocypraea (Miolyncina) prunum;NA;species;113704;Early Miocene;;23.04;15.98
+723122;occ;NA;NA;77650;Callistocypraea (Miolyncina) prunum;NA;species;113704;Early Miocene;;23.04;15.98
+723123;occ;NA;NA;77650;Luria (Basilitrona) jenkinsi;NA;species;343962;Early Miocene;;23.04;15.98
+723503;occ;NA;NA;77624;Zonaria dertamygdaloides;NA;species;114846;Early Miocene;;23.04;15.98
+724212;occ;NA;NA;60955;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+724395;occ;NA;NA;77791;Cypraea;NA;genus;9724;Late Oligocene;;27.03;23.04
+725233;occ;NA;NA;77902;Cypraea (Luponia) subchinensis;NA;species;343927;Late Miocene;;11.63;5.333
+725279;occ;NA;NA;77904;Cypraea (Erosaria) malekulensis;NA;species;343928;Pliocene;;5.333;2.58
+725293;occ;NA;NA;77905;Erronea cylindrica;NA;species;60029;Pleistocene;;2.58;0.0117
+725294;occ;NA;NA;77905;Monetaria moneta;NA;species;60041;Pleistocene;;2.58;0.0117
+725312;occ;NA;NA;77906;Monetaria moneta;NA;species;60041;Pleistocene;;2.58;0.0117
+725313;occ;NA;NA;77906;Naria erosa;NA;species;60031;Pleistocene;;2.58;0.0117
+725332;occ;NA;NA;77907;Monetaria moneta;NA;species;60041;Holocene;;0.0117;0
+725570;occ;NA;NA;77941;Ipsa childreni;NA;species;91930;Late Pleistocene;;0.129;0.0117
+725571;occ;NA;NA;77941;Cypraea (Lyncina) lynx;NA;species;60039;Late Pleistocene;;0.129;0.0117
+725573;occ;NA;NA;77940;Monetaria moneta;NA;species;60041;Early Pliocene;;5.333;3.6
+725581;occ;NA;NA;77939;Ipsa childreni;NA;species;91930;Late Miocene;;11.63;5.333
+725582;occ;NA;NA;77939;Cypraea tigris;NA;species;60045;Late Miocene;;11.63;5.333
+725585;occ;NA;NA;77936;Pustularia globulus;NA;species;342933;Pleistocene;;2.58;0.0117
+725602;occ;NA;NA;77937;Naria erosa;NA;species;60031;Pliocene;Pleistocene;5.333;0.0117
+725603;occ;NA;NA;77937;Cypraea (Erosaria) caputserpentis;NA;species;147494;Pliocene;Pleistocene;5.333;0.0117
+725604;occ;NA;NA;77937;Monetaria moneta;NA;species;60041;Pliocene;Pleistocene;5.333;0.0117
+725605;occ;NA;NA;77937;Ipsa childreni;NA;species;91930;Pliocene;Pleistocene;5.333;0.0117
+725606;occ;NA;NA;77937;Lyncina carneola;NA;species;60026;Pliocene;Pleistocene;5.333;0.0117
+725607;occ;NA;NA;77937;Cypraea (Lyncina) lynx;NA;species;60039;Pliocene;Pleistocene;5.333;0.0117
+725608;occ;NA;NA;77937;Talparia talpa;NA;species;342289;Pliocene;Pleistocene;5.333;0.0117
+725609;occ;NA;NA;77937;Mauritia arabica;NA;species;60023;Pliocene;Pleistocene;5.333;0.0117
+725610;occ;NA;NA;77937;Luria isabella;NA;species;60036;Pliocene;Pleistocene;5.333;0.0117
+726499;occ;NA;NA;78043;Purpuradusta gracilis;NA;species;170610;Middle Pleistocene;;0.774;0.129
+726500;occ;NA;NA;78043;Adusta pulchella;NA;species;342706;Middle Pleistocene;;0.774;0.129
+726501;occ;NA;NA;78043;Erronea pyriformis;NA;species;135456;Middle Pleistocene;;0.774;0.129
+726502;occ;NA;NA;78043;Notadusta punctata;NA;species;336811;Middle Pleistocene;;0.774;0.129
+726652;occ;NA;NA;78046;Pedicularia navakaensis;NA;species;343071;Pleistocene;;2.58;0.0117
+726701;occ;NA;NA;43325;Monetaria moneta;NA;species;60041;Holocene;;0.0117;0
+726704;occ;NA;NA;43306;Luria isabella;NA;species;60036;Holocene;;0.0117;0
+726705;occ;NA;NA;43306;Ipsa childreni;NA;species;91930;Holocene;;0.0117;0
+726706;occ;NA;NA;43306;Pedicularia pacifica;NA;species;340662;Holocene;;0.0117;0
+726769;occ;NA;NA;78036;Cypraea (Erosaria) helvola;NA;species;60034;Early Pleistocene;;2.58;0.774
+726770;occ;NA;NA;78037;Cypraea (Erosaria) helvola;NA;species;60034;Early Pleistocene;;2.58;0.774
+726771;occ;NA;NA;78037;Cypraea (Staphylaea) nucleus;NA;species;170608;Early Pleistocene;;2.58;0.774
+726772;occ;NA;NA;78042;Cypraea (Lyncina) lynx;NA;species;60039;Pleistocene;;2.58;0.0117
+726773;occ;NA;NA;78042;Lyncina carneola;NA;species;60026;Pleistocene;;2.58;0.0117
+726774;occ;NA;NA;78042;Pustularia cicercula;NA;species;170606;Pleistocene;;2.58;0.0117
+726775;occ;NA;NA;78042;Cypraea (Erosaria) caputserpentis;NA;species;147494;Pleistocene;;2.58;0.0117
+726792;occ;NA;NA;78043;Cypraea (Lyncina) porteri;NA;species;342699;Middle Pleistocene;;0.774;0.129
+726793;occ;NA;NA;78043;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;;0.774;0.129
+726794;occ;NA;NA;78043;Cypraea (Erosaria) guttata;NA;species;342626;Middle Pleistocene;;0.774;0.129
+726798;occ;NA;NA;78046;Cypraea (Erosaria) guttata;NA;species;342626;Pleistocene;;2.58;0.0117
+726808;occ;NA;NA;78052;Erosaria miliaris;NA;species;60040;Late Pliocene;;3.6;2.58
+726813;occ;NA;NA;77906;Monetaria moneta;NA;species;60041;Pleistocene;;2.58;0.0117
+726814;occ;NA;NA;77906;Naria erosa;NA;species;60031;Pleistocene;;2.58;0.0117
+726815;occ;NA;NA;77906;Erronea cylindrica;NA;species;60029;Pleistocene;;2.58;0.0117
+726816;occ;NA;NA;77907;Arestorides argus;NA;species;60024;Holocene;;0.0117;0
+726817;occ;NA;NA;77907;Monetaria moneta;NA;species;60041;Holocene;;0.0117;0
+726818;occ;NA;NA;68180;Cypraea (Erosaria) helvola;NA;species;60034;Pliocene;;5.333;2.58
+726819;occ;NA;NA;68180;Cypraea (Staphylaea) nucleus;NA;species;170608;Pliocene;;5.333;2.58
+726820;occ;NA;NA;68180;Erronea (Cribraria);NA;subgenus;9699;Pliocene;;5.333;2.58
+726826;occ;NA;NA;68181;Cypraea (Erosaria) helvola;NA;species;60034;Pliocene;;5.333;2.58
+726834;occ;NA;NA;68295;Cypraea (Erosaria) helvola;NA;species;60034;Middle Miocene;;15.98;11.63
+726838;occ;NA;NA;68295;Lyncina carneola;NA;species;60026;Middle Miocene;;15.98;11.63
+726921;occ;NA;NA;78077;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+726922;occ;NA;NA;78077;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+726923;occ;NA;NA;78077;Arestorides argus;NA;species;60024;Late Pleistocene;;0.129;0.0117
+726924;occ;NA;NA;78077;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+726925;occ;NA;NA;78076;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+726926;occ;NA;NA;78076;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+726927;occ;NA;NA;78076;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+726929;occ;NA;NA;78074;Cypraea (Lyncina) lynx;NA;species;60039;Late Pleistocene;;0.129;0.0117
+726930;occ;NA;NA;78074;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+726945;occ;NA;NA;78060;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+726946;occ;NA;NA;78060;Cypraea (Lyncina) lynx;NA;species;60039;Messinian;;7.246;5.333
+726947;occ;NA;NA;78060;Erosaria everwijni;NA;species;337387;Messinian;;7.246;5.333
+726948;occ;NA;NA;78060;Ipsa childreni;NA;species;91930;Messinian;;7.246;5.333
+726949;occ;NA;NA;78060;Cypraea (Erosaria) helvola;NA;species;60034;Messinian;;7.246;5.333
+726980;occ;NA;NA;78073;Cribrarula cribraria;NA;species;335303;Pliocene;;5.333;2.58
+730294;occ;NA;NA;78437;Prozonarina fabagina;NA;species;114844;Tortonian;;11.63;7.246
+730718;occ;NA;NA;78521;Cypraea;NA;genus;9724;Burdigalian;;20.45;15.98
+730995;occ;NA;NA;78548;Prozonarina fabagina;NA;species;114844;Langhian;;15.98;13.82
+731015;occ;NA;NA;78546;Prozonarina fabagina;NA;species;114844;Burdigalian;;20.45;15.98
+731550;occ;NA;NA;78565;Gisortia gigantea;NA;species;114125;Priabonian;;37.71;33.9
+731576;occ;NA;NA;78566;Gisortia gigantea;NA;species;114125;Late Eocene;;37.71;33.9
+732513;occ;NA;NA;78617;Cypraeovula;NA;genus;336483;Priabonian;;37.71;33.9
+732514;occ;NA;NA;78617;Cypraea;NA;genus;9724;Priabonian;;37.71;33.9
+733067;occ;NA;NA;78647;Cypraea;NA;genus;9724;Badenian;;13.82;12.8
+733068;occ;NA;NA;78647;Cypraea;NA;genus;9724;Badenian;;13.82;12.8
+733149;occ;NA;NA;78653;Cypraea;NA;genus;9724;Badenian;;13.82;12.8
+733190;occ;NA;NA;78661;Cypraea;NA;genus;9724;Badenian;;13.82;12.8
+734830;occ;NA;NA;78832;Schilderia flavicula;NA;species;341088;Early Miocene;;23.04;15.98
+736323;occ;NA;NA;77304;Gisortia murchisoni;NA;species;114122;Early Eocene;;56;48.07
+736413;occ;NA;NA;79082;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+736444;occ;NA;NA;79079;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+736461;occ;NA;NA;79077;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+736600;occ;NA;NA;79099;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+741498;occ;NA;NA;79710;Pseudozonaria raymondrobertsi;NA;species;335320;Late Pliocene;;3.6;2.58
+741499;occ;NA;NA;79710;Zonaria spurcoides;NA;species;109032;Late Pliocene;;3.6;2.58
+741500;occ;NA;NA;79710;Muracypraea caroniensis;NA;species;167374;Late Pliocene;;3.6;2.58
+741890;occ;NA;NA;79739;Macrocypraea cervus;NA;species;156624;Late Pleistocene;;0.129;0.0117
+742005;occ;NA;NA;79747;Luria voleki;NA;species;342051;Middle Pleistocene;;0.774;0.129
+742006;occ;NA;NA;79747;Macrocypraea joanneae;NA;species;343131;Middle Pleistocene;;0.774;0.129
+742007;occ;NA;NA;79747;Cypraea (Macrocypraea) spengleri;NA;species;343175;Middle Pleistocene;;0.774;0.129
+742008;occ;NA;NA;79747;Pseudozonaria portelli;NA;species;187658;Middle Pleistocene;;0.774;0.129
+742520;occ;NA;NA;79335;Siphocypraea problematica;NA;species;111875;Early Pleistocene;;2.58;0.774
+742532;occ;NA;NA;79780;Siphocypraea;NA;genus;10471;Tortonian;;11.63;7.246
+742565;occ;NA;NA;79782;Siphocypraea griffini;NA;species;342628;Early Pleistocene;;2.58;0.774
+742814;occ;NA;NA;79790;Siphocypraea;NA;genus;10471;Tortonian;;11.63;7.246
+743221;occ;NA;NA;79804;Siphocypraea problematica;NA;species;111875;Late Pliocene;Early Pleistocene;3.6;0.774
+743222;occ;NA;NA;79804;Siphocypraea philemoni;NA;species;343469;Late Pliocene;Early Pleistocene;3.6;0.774
+743223;occ;NA;NA;79804;Siphocypraea (Pahayokea) josiai;NA;species;343122;Late Pliocene;Early Pleistocene;3.6;0.774
+743241;occ;NA;NA;79805;Siphocypraea problematica;NA;species;111875;Early Pleistocene;;2.58;0.774
+743242;occ;NA;NA;79805;Siphocypraea (Okeechobea) brantleyi;NA;species;343149;Early Pleistocene;;2.58;0.774
+743243;occ;NA;NA;79805;Siphocypraea (Pahayokea) aspenae;NA;species;343146;Early Pleistocene;;2.58;0.774
+743700;occ;NA;NA;79847;Siphocypraea dimasi;NA;species;343062;Late Pliocene;Pleistocene;3.6;0.0117
+743701;occ;NA;NA;79847;Siphocypraea mulepenensis;NA;species;343074;Late Pliocene;Pleistocene;3.6;0.0117
+744293;occ;NA;NA;79876;Akleistostoma jenniferae;NA;species;343119;Late Pliocene;;3.6;2.58
+744294;occ;NA;NA;79876;Akleistostoma macbrideae;NA;species;343155;Late Pliocene;;3.6;2.58
+744295;occ;NA;NA;79876;Calusacypraea tequesta;NA;species;121276;Late Pliocene;;3.6;2.58
+744296;occ;NA;NA;79876;Calusacypraea (Myakkacypraea) myakka;NA;species;82795;Late Pliocene;;3.6;2.58
+744297;occ;NA;NA;79876;Siphocypraea metae;NA;species;343715;Late Pliocene;;3.6;2.58
+744311;occ;NA;NA;79876;Siphocypraea (Pahayokea) kissimmeensis;NA;species;343135;Late Pliocene;;3.6;2.58
+744337;occ;NA;NA;79875;Akleistostoma rilkoi;NA;species;343179;Late Pliocene;;3.6;2.58
+744338;occ;NA;NA;79875;Calusacypraea sarasotaensis;NA;species;121275;Late Pliocene;;3.6;2.58
+744339;occ;NA;NA;79875;Calusacypraea (Myakkacypraea) kelleyi;NA;species;343126;Late Pliocene;;3.6;2.58
+744340;occ;NA;NA;79875;Pseudadusta kalafuti;NA;species;342988;Late Pliocene;;3.6;2.58
+744341;occ;NA;NA;79875;Siphocypraea cannoni;NA;species;342009;Late Pliocene;;3.6;2.58
+744342;occ;NA;NA;79875;Siphocypraea (Pahayokea) parodizi;NA;species;343710;Late Pliocene;;3.6;2.58
+744360;occ;NA;NA;79875;Akleistostoma bairdi;NA;species;82791;Late Pliocene;;3.6;2.58
+744361;occ;NA;NA;79875;Siphocypraea (Pahayokea) basingerensis;NA;species;343147;Late Pliocene;;3.6;2.58
+744391;occ;NA;NA;79874;Calusacypraea (Myakkacypraea) schnireli;NA;species;82796;Late Pliocene;;3.6;2.58
+744392;occ;NA;NA;79874;Pseudadusta marilynae;NA;species;343717;Late Pliocene;;3.6;2.58
+744393;occ;NA;NA;79874;Siphocypraea (Pahayokea) alligator;NA;species;343142;Late Pliocene;;3.6;2.58
+744410;occ;NA;NA;79874;Akleistostoma diegelae;NA;species;342580;Late Pliocene;;3.6;2.58
+744411;occ;NA;NA;79874;Siphocypraea (Pahayokea) gabrielleae;NA;species;343133;Late Pliocene;;3.6;2.58
+744412;occ;NA;NA;79874;Siphocypraea (Pahayokea) penningtonorum;NA;species;343712;Late Pliocene;;3.6;2.58
+744413;occ;NA;NA;79874;Siphocypraea (Pahayokea) rucksorum;NA;species;343714;Late Pliocene;;3.6;2.58
+744454;occ;NA;NA;79855;Siphocypraea;NA;genus;10471;Messinian;;7.246;5.333
+744591;occ;NA;NA;79871;Luria;NA;genus;115679;Early Pleistocene;;2.58;0.774
+744615;occ;NA;NA;79871;Proadusta;NA;genus;10309;Early Pleistocene;;2.58;0.774
+745506;occ;NA;NA;79965;Akleistostoma;NA;genus;82790;Tortonian;Zanclean;11.63;3.6
+745507;occ;NA;NA;79965;Siphocypraea;NA;genus;10471;Tortonian;Zanclean;11.63;3.6
+745561;occ;NA;NA;79960;Akleistostoma carolinensis;NA;species;335331;Late Pliocene;;3.6;2.58
+745562;occ;NA;NA;79960;Akleistostoma pilsbryi;NA;species;341755;Late Pliocene;;3.6;2.58
+745570;occ;NA;NA;79960;Akleistostoma crocodila;NA;species;343153;Late Pliocene;;3.6;2.58
+745571;occ;NA;NA;79960;Siphocypraea (Pahayokea) erici;NA;species;343134;Late Pliocene;;3.6;2.58
+745572;occ;NA;NA;79960;Siphocypraea duerri;NA;species;121274;Late Pliocene;;3.6;2.58
+745685;occ;NA;NA;79331;Cypraea problematica;NA;species;342576;Early Pleistocene;;2.58;0.774
+745711;occ;NA;NA;79959;Akleistostoma floridana;NA;species;343114;Late Pliocene;;3.6;2.58
+745712;occ;NA;NA;79959;Siphocypraea (Pahayokea) mansfieldi;NA;species;343708;Late Pliocene;;3.6;2.58
+745713;occ;NA;NA;79959;Calusacypraea globulina;NA;species;82793;Late Pliocene;;3.6;2.58
+745714;occ;NA;NA;79959;Calusacypraea briani;NA;species;121273;Late Pliocene;;3.6;2.58
+745715;occ;NA;NA;79959;Pseudadusta hertweckorum;NA;species;342963;Late Pliocene;;3.6;2.58
+745716;occ;NA;NA;79959;Siphocypraea trippeana;NA;species;342082;Late Pliocene;;3.6;2.58
+745787;occ;NA;NA;79959;Akleistostoma hughesi;NA;species;342629;Late Pliocene;;3.6;2.58
+745851;occ;NA;NA;79958;Pseudadusta ketteri;NA;species;343139;Late Pliocene;;3.6;2.58
+745852;occ;NA;NA;79958;Pseudadusta lindae;NA;species;342724;Late Pliocene;;3.6;2.58
+745926;occ;NA;NA;79958;Siphocypraea grovesi;NA;species;342625;Late Pliocene;;3.6;2.58
+746327;occ;NA;NA;79985;Siphocypraea;NA;genus;10471;Tortonian;;11.63;7.246
+746598;occ;NA;NA;79992;Macrocypraea;NA;genus;10084;Late Pliocene;;3.6;2.58
+746698;occ;NA;NA;79995;Siphocypraea;NA;genus;10471;Tortonian;;11.63;7.246
+746752;occ;NA;NA;79996;Siphocypraea;NA;genus;10471;Tortonian;;11.63;7.246
+748617;occ;NA;NA;80084;Cypraea;NA;genus;9724;Zanclean;;5.333;3.6
+749100;occ;NA;NA;80084;Erosaria spurca;NA;species;109031;Zanclean;;5.333;3.6
+749101;occ;NA;NA;80084;Zonaria spurcoides;NA;species;109032;Zanclean;;5.333;3.6
+749102;occ;NA;NA;80084;Pseudozonaria raymondrobertsi;NA;species;335320;Zanclean;;5.333;3.6
+749103;occ;NA;NA;80084;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+749104;occ;NA;NA;80084;Muracypraea henekeni;NA;species;161733;Zanclean;;5.333;3.6
+749140;occ;NA;NA;74915;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+749151;occ;NA;NA;74934;Cypraeorbis noveli;NA;species;109030;Tortonian;;11.63;7.246
+749156;occ;NA;NA;74963;Muracypraea henekeni;NA;species;161733;Burdigalian;Langhian;20.45;13.82
+749222;occ;NA;NA;80136;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+749225;occ;NA;NA;80136;Zonaria spurcoides;NA;species;109032;Zanclean;;5.333;3.6
+749226;occ;NA;NA;80136;Macrocypraea zebra;NA;species;109181;Zanclean;;5.333;3.6
+749228;occ;NA;NA;80136;Erosaria spurca;NA;species;109031;Zanclean;;5.333;3.6
+749229;occ;NA;NA;80136;Cypraea (Luria) cinerea;NA;species;167360;Zanclean;;5.333;3.6
+749529;occ;NA;NA;80170;Cypraeorbis vaughani;NA;species;121228;Thanetian;;59.24;56
+749711;occ;NA;NA;79761;Calusacypraea briani;NA;species;121273;Late Pliocene;;3.6;2.58
+749712;occ;NA;NA;79761;Siphocypraea duerri;NA;species;121274;Late Pliocene;;3.6;2.58
+749713;occ;NA;NA;79761;Calusacypraea tequesta;NA;species;121276;Late Pliocene;;3.6;2.58
+749714;occ;NA;NA;79761;Calusacypraea sarasotaensis;NA;species;121275;Late Pliocene;;3.6;2.58
+749752;occ;NA;NA;80184;Cypraeorbis kendrewi;NA;species;121325;Early Oligocene;;33.9;27.03
+751409;occ;NA;NA;80407;Macrocypraea zebra;NA;species;109181;Late Pleistocene;;0.129;0.0117
+751410;occ;NA;NA;80407;Cypraea (Luria) cinerea;NA;species;167360;Late Pleistocene;;0.129;0.0117
+751560;occ;NA;NA;80412;Muracypraea ormenoi;NA;species;121799;Burdigalian;;20.45;15.98
+751561;occ;NA;NA;80411;Muracypraea ormenoi;NA;species;121799;Middle Miocene;;15.98;11.63
+752020;occ;NA;NA;48660;Cypraeidae;NA;family;60047;Burdigalian;;20.45;15.98
+752427;occ;NA;NA;80564;Schilderia flavicula;NA;species;341088;Zanclean;;5.333;3.6
+752429;occ;NA;NA;80564;Schilderia plioamygdalum;NA;species;342060;Zanclean;;5.333;3.6
+752431;occ;NA;NA;80562;Schilderia flavicula;NA;species;341088;Piacenzian;;3.6;2.58
+752433;occ;NA;NA;80562;Schilderia utricolata;NA;species;340331;Piacenzian;;3.6;2.58
+752434;occ;NA;NA;80562;Schilderia plioamygdalum;NA;species;342060;Piacenzian;;3.6;2.58
+752435;occ;NA;NA;80562;Schilderia pseudamygdalum;NA;species;342064;Piacenzian;;3.6;2.58
+752436;occ;NA;NA;80562;Schilderia garonettii;NA;species;342066;Piacenzian;;3.6;2.58
+752446;occ;NA;NA;80561;Pedicularia deshayesiana;NA;species;342077;Piacenzian;;3.6;2.58
+752447;occ;NA;NA;80562;Zonaria porcellus;NA;species;164299;Piacenzian;;3.6;2.58
+752454;occ;NA;NA;80562;Pedicularia deshayesiana;NA;species;342077;Piacenzian;;3.6;2.58
+753359;occ;NA;NA;80676;Cypraea;NA;genus;9724;Middle Pleistocene;;0.774;0.129
+753433;occ;NA;NA;80677;Cypraea (Luria) cinerea;NA;species;167360;Late Pleistocene;;0.129;0.0117
+753434;occ;22342;NA;80677;Erosaria acicularis;NA;species;167365;Late Pleistocene;;0.129;0.0117
+753435;occ;NA;NA;80677;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+753735;occ;NA;NA;80719;Cypraea pantherina;NA;species;336507;Late Pleistocene;;0.129;0.0117
+754951;occ;NA;NA;80835;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+755017;occ;NA;NA;80837;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+756401;occ;NA;NA;80965;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756419;occ;NA;NA;80966;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756420;occ;NA;NA;80966;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+756421;occ;NA;NA;80966;Cypraea (Staphylaea) nucleus;NA;species;170608;Late Pleistocene;;0.129;0.0117
+756845;occ;NA;NA;81007;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756846;occ;NA;NA;81007;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+756847;occ;NA;NA;81007;Cypraea (Staphylaea) nucleus;NA;species;170608;Late Pleistocene;;0.129;0.0117
+756848;occ;NA;NA;81007;Staphylaea (Staphylaea) staphylaea;NA;species;60043;Late Pleistocene;;0.129;0.0117
+756871;occ;NA;NA;81008;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756917;occ;NA;NA;81009;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756937;occ;NA;NA;81011;Cypraea (Purpuradusta) fimbriata;NA;species;170601;Late Pleistocene;;0.129;0.0117
+756938;occ;NA;NA;81011;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+756939;occ;NA;NA;81011;Mauritia scurra;NA;species;342823;Late Pleistocene;;0.129;0.0117
+756940;occ;NA;NA;81011;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+756941;occ;NA;NA;81011;Erronea caurica;NA;species;60027;Late Pleistocene;;0.129;0.0117
+757287;occ;NA;NA;81036;Pustularia globulus;NA;species;342933;Late Pleistocene;;0.129;0.0117
+757288;occ;NA;NA;81036;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+757302;occ;NA;NA;81036;Mauritia scurra;NA;species;342823;Late Pleistocene;;0.129;0.0117
+757348;occ;NA;NA;81044;Cypraeorbis splendens;NA;species;105963;Early Oligocene;;33.9;27.03
+757362;occ;NA;NA;81043;Cypraea;NA;genus;9724;Priabonian;;37.71;33.9
+757540;occ;NA;NA;81058;Archicypraea prisca;NA;species;342573;Ypresian;;56;48.07
+757553;occ;NA;NA;81059;Archicypraea prisca;NA;species;342573;Lutetian;;48.07;41.03
+757755;occ;NA;NA;81072;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+757828;occ;NA;NA;81077;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+757829;occ;NA;NA;81077;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+757845;occ;NA;NA;81078;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+757857;occ;NA;NA;81079;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+757858;occ;NA;NA;81079;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+758080;occ;NA;NA;81089;Pustularia globulus;NA;species;342933;Late Pleistocene;;0.129;0.0117
+758116;occ;NA;NA;81092;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+758127;occ;NA;NA;81092;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+758136;occ;NA;NA;81093;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+758147;occ;NA;NA;81094;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+758180;occ;NA;NA;81097;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+765406;occ;NA;NA;70098;Barycypraea subtetragona;NA;species;127320;Late Miocene;;11.63;5.333
+768395;occ;NA;NA;81976;Muracypraea caroniensis;NA;species;167374;Late Miocene;;11.63;5.333
+780321;occ;NA;NA;83950;Cypraeorbis bulbus;NA;species;335387;Ypresian;;56;48.07
+782633;occ;NA;NA;84337;Cypraeorbis bulbus;NA;species;335387;Ypresian;;56;48.07
+784510;occ;NA;NA;84524;Erronea pyriformis;NA;species;135456;Pliocene;;5.333;2.58
+787711;occ;NA;NA;85086;Erosaria cernica;NA;species;342012;Early Pleistocene;;2.58;0.774
+787893;occ;NA;NA;85098;Erosaria cernica;NA;species;342012;Early Pleistocene;;2.58;0.774
+797276;occ;NA;NA;86659;Gisortia gigantea;NA;species;114125;Priabonian;;37.71;33.9
+799416;occ;NA;NA;87000;Cypraea;NA;genus;9724;Danian;Selandian;66;59.24
+805159;occ;NA;NA;87873;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+805192;occ;NA;NA;87876;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+805493;occ;NA;NA;87867;Protocypraea riachuelana;NA;species;144160;Middle Albian;;110.1;106.3
+808040;occ;NA;NA;88296;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+808604;occ;NA;NA;88391;Cypraeorbis boggsi;NA;species;146839;Late Eocene;;37.71;33.9
+810998;occ;NA;NA;88886;Cypraea (Lyncina) vitellus;NA;species;60046;Late Pleistocene;;0.129;0.0117
+810999;occ;NA;NA;88886;Cypraea (Purpuradusta) fimbriata;NA;species;170601;Late Pleistocene;;0.129;0.0117
+811000;occ;NA;NA;88886;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+811001;occ;NA;NA;88886;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+812363;occ;NA;NA;89289;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+812364;occ;NA;NA;89289;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+812365;occ;NA;NA;89289;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+812366;occ;NA;NA;89289;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+812367;occ;NA;NA;89289;Nucleolaria granulata;NA;species;147496;Late Pleistocene;;0.129;0.0117
+812368;occ;NA;NA;89289;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+812369;occ;NA;NA;89289;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+812370;occ;NA;NA;89289;Erosaria labrolineata;NA;species;343013;Late Pleistocene;;0.129;0.0117
+812371;occ;NA;NA;89289;Mauritia maculifera;NA;species;147498;Late Pleistocene;;0.129;0.0117
+812420;occ;NA;NA;89290;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+812421;occ;NA;NA;89290;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+812422;occ;NA;NA;89290;Nucleolaria granulata;NA;species;147496;Late Pleistocene;;0.129;0.0117
+812423;occ;NA;NA;89290;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+812424;occ;NA;NA;89290;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+812461;occ;NA;NA;89292;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+812462;occ;NA;NA;89292;Nucleolaria granulata;NA;species;147496;Late Pleistocene;;0.129;0.0117
+812463;occ;NA;NA;89292;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+812464;occ;NA;NA;89292;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+812465;occ;NA;NA;89292;Mauritia maculifera;NA;species;147498;Late Pleistocene;;0.129;0.0117
+812466;occ;NA;NA;89292;Talostolida teres;NA;species;170596;Late Pleistocene;;0.129;0.0117
+812548;occ;NA;NA;89294;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812549;occ;NA;NA;89294;Lyncina carneola;NA;species;60026;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812550;occ;NA;NA;89294;Pustularia cicercula;NA;species;170606;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812551;occ;NA;NA;89294;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812552;occ;NA;NA;89294;Cypraea (Purpuradusta) fimbriata;NA;species;170601;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812553;occ;NA;NA;89294;Cribrarula gaskoini;NA;species;342872;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812554;occ;NA;NA;89294;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812555;occ;NA;NA;89294;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812556;occ;NA;NA;89294;Luria isabella;NA;species;60036;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812557;occ;NA;NA;89294;Lyncina leviathan;NA;species;343007;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812558;occ;NA;NA;89294;Mauritia maculifera;NA;species;147498;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812559;occ;NA;NA;89294;Cypraea (Lyncina) schilderorum;NA;species;338756;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812560;occ;NA;NA;89294;Talparia talpa;NA;species;342289;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812561;occ;NA;NA;89294;Talostolida teres;NA;species;170596;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812562;occ;NA;NA;89294;Luria tessellata;NA;species;335343;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812664;occ;NA;NA;89299;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812665;occ;NA;NA;89299;Lyncina carneola;NA;species;60026;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812666;occ;NA;NA;89299;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812667;occ;NA;NA;89299;Luria isabella;NA;species;60036;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812677;occ;NA;NA;89300;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812678;occ;NA;NA;89300;Pustularia cicercula;NA;species;170606;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812679;occ;NA;NA;89300;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812680;occ;NA;NA;89300;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812681;occ;NA;NA;89300;Luria isabella;NA;species;60036;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812682;occ;NA;NA;89300;Luria tessellata;NA;species;335343;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812683;occ;NA;NA;89300;Cypraea (Lyncina) vitellus;NA;species;60046;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812706;occ;NA;NA;89301;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812707;occ;NA;NA;89301;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812714;occ;NA;NA;89302;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812715;occ;NA;NA;89302;Pustularia cicercula;NA;species;170606;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812716;occ;NA;NA;89302;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812717;occ;NA;NA;89302;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812718;occ;NA;NA;89302;Luria isabella;NA;species;60036;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812719;occ;NA;NA;89302;Luria tessellata;NA;species;335343;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812737;occ;NA;NA;89303;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812738;occ;NA;NA;89303;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812739;occ;NA;NA;89303;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812740;occ;NA;NA;89303;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812741;occ;NA;NA;89303;Mauritia maculifera;NA;species;147498;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812757;occ;NA;NA;89304;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812758;occ;NA;NA;89304;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812759;occ;NA;NA;89304;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812764;occ;NA;NA;89305;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812774;occ;NA;NA;89306;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812775;occ;NA;NA;89306;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812785;occ;NA;NA;89307;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812786;occ;NA;NA;89307;Lyncina carneola;NA;species;60026;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812787;occ;NA;NA;89307;Pustularia cicercula;NA;species;170606;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812788;occ;NA;NA;89307;Naria erosa;NA;species;60031;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812789;occ;NA;NA;89307;Cribrarula gaskoini;NA;species;342872;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812790;occ;NA;NA;89307;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812791;occ;NA;NA;89307;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812792;occ;NA;NA;89307;Mauritia maculifera;NA;species;147498;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812793;occ;NA;NA;89307;Talparia talpa;NA;species;342289;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812794;occ;NA;NA;89307;Luria tessellata;NA;species;335343;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+812816;occ;NA;NA;89308;Pustularia cicercula;NA;species;170606;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+813101;occ;NA;NA;89400;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+813102;occ;NA;NA;89400;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+813103;occ;NA;NA;89400;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+813104;occ;NA;NA;89400;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+813105;occ;NA;NA;89400;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+813106;occ;NA;NA;89400;Mauritia scurra;NA;species;342823;Late Pleistocene;;0.129;0.0117
+813107;occ;NA;NA;89400;Luria tessellata;NA;species;335343;Late Pleistocene;;0.129;0.0117
+813128;occ;NA;NA;89401;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+813129;occ;NA;NA;89401;Mauritia maculifera;NA;species;147498;Late Pleistocene;;0.129;0.0117
+813141;occ;NA;NA;89402;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+813142;occ;NA;NA;89402;Nucleolaria granulata;NA;species;147496;Late Pleistocene;;0.129;0.0117
+813143;occ;NA;NA;89402;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+813144;occ;NA;NA;89402;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+813164;occ;NA;NA;89403;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+813174;occ;NA;NA;89404;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+813175;occ;NA;NA;89404;Nucleolaria granulata;NA;species;147496;Late Pleistocene;;0.129;0.0117
+813176;occ;NA;NA;89404;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+813184;occ;NA;NA;89406;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+813185;occ;NA;NA;89406;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+813186;occ;NA;NA;89406;Mauritia maculifera;NA;species;147498;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+813187;occ;NA;NA;89406;Mauritia mauritiana;NA;species;115688;Middle Pleistocene;Late Pleistocene;0.774;0.0117
+813860;occ;NA;NA;89573;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+814002;occ;NA;NA;89597;Pseudozonaria annettae;NA;species;164301;Late Pleistocene;;0.129;0.0117
+814003;occ;NA;NA;89597;Pseudozonaria arabicula;NA;species;187653;Late Pleistocene;;0.129;0.0117
+835101;occ;23155;NA;92751;Muracypraea donmoorei;NA;species;167636;Late Miocene;;11.63;5.333
+837905;occ;NA;NA;92977;Gisortia clarki;NA;species;162241;Late Eocene;;37.71;33.9
+840043;occ;27648;NA;93053;Muracypraea isthmica;NA;species;167381;Tortonian;;11.63;7.246
+840048;occ;27649;NA;93054;Muracypraea isthmica;NA;species;167381;Tortonian;;11.63;7.246
+841888;occ;NA;NA;93369;Cypraeorbis;NA;genus;9730;Burdigalian;;20.45;15.98
+841889;occ;NA;NA;93369;Jousseaumea joossi;NA;species;343898;Burdigalian;;20.45;15.98
+851462;occ;NA;NA;94693;Gisortia (Vicetia) hantkeni;NA;species;342657;Ypresian;;56;48.07
+853686;occ;NA;NA;81077;Pustularia globulus;NA;species;342933;Late Pleistocene;;0.129;0.0117
+854166;occ;NA;NA;94832;Naria erosa;NA;species;60031;Early Pleistocene;;2.58;0.774
+868729;occ;NA;NA;96352;Cypraea (Luria) cinerea;NA;species;167360;Holocene;;0.0117;0
+869628;occ;NA;NA;96436;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+869629;occ;NA;NA;96436;Arestorides argus;NA;species;60024;Late Pleistocene;;0.129;0.0117
+869630;occ;NA;NA;96436;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+869631;occ;NA;NA;96436;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+869632;occ;NA;NA;96436;Cypraea (Lyncina) lynx;NA;species;60039;Late Pleistocene;;0.129;0.0117
+869633;occ;NA;NA;96436;Talostolida teres;NA;species;170596;Late Pleistocene;;0.129;0.0117
+869729;occ;NA;NA;96448;Muracypraea henekeni;NA;species;161733;Middle Miocene;;15.98;11.63
+869823;occ;NA;NA;96472;Arestorides argus;NA;species;60024;Late Pleistocene;;0.129;0.0117
+869824;occ;NA;NA;96472;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+869825;occ;NA;NA;96472;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+869826;occ;NA;NA;96472;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+869839;occ;NA;NA;96473;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+869840;occ;NA;NA;96473;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+869841;occ;NA;NA;96473;Mauritia mauritiana;NA;species;115688;Late Pleistocene;;0.129;0.0117
+869862;occ;NA;NA;96474;Arestorides argus;NA;species;60024;Late Pleistocene;;0.129;0.0117
+869863;occ;NA;NA;96474;Cypraea (Lyncina) lynx;NA;species;60039;Late Pleistocene;;0.129;0.0117
+870039;occ;NA;NA;96514;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+870190;occ;NA;NA;79960;Akleistostoma floridana;NA;species;343114;Late Pliocene;;3.6;2.58
+870191;occ;NA;NA;79960;Siphocypraea trippeana;NA;species;342082;Late Pliocene;;3.6;2.58
+870192;occ;NA;NA;79960;Siphocypraea transitoria;NA;species;341759;Late Pliocene;;3.6;2.58
+870193;occ;NA;NA;79960;Akleistostoma hughesi;NA;species;342629;Late Pliocene;;3.6;2.58
+870257;occ;NA;NA;35025;Siphocypraea problematica;NA;species;111875;Early Pleistocene;;2.58;0.774
+870282;occ;NA;NA;35031;Macrocypraea cervus;NA;species;156624;Middle Pleistocene;;0.774;0.129
+870603;occ;NA;NA;96557;Pseudozonaria annettae;NA;species;164301;Late Pleistocene;;0.129;0.0117
+870739;occ;NA;NA;96565;Pseudozonaria arabicula;NA;species;187653;Pleistocene;;2.58;0.0117
+870740;occ;NA;NA;96565;Pseudozonaria annettae;NA;species;164301;Pleistocene;;2.58;0.0117
+871002;occ;NA;NA;96570;Siphocypraea amandusi;NA;species;167382;Early Miocene;;23.04;15.98
+871171;occ;NA;NA;96587;Cypraea;NA;genus;9724;Pliocene;;5.333;2.58
+871188;occ;NA;NA;96588;Cypraea;NA;genus;9724;Pliocene;;5.333;2.58
+871458;occ;NA;NA;96593;Neobernaya spadicea;NA;species;335362;Pleistocene;;2.58;0.0117
+871478;occ;NA;NA;96591;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+871797;occ;NA;NA;96596;Pseudozonaria nigropunctata;NA;species;187644;Pliocene;;5.333;2.58
+871850;occ;NA;NA;96595;Pseudozonaria nigropunctata;NA;species;187644;Pliocene;;5.333;2.58
+872323;occ;NA;NA;96682;Cypraea (Erosaria) caputserpentis;NA;species;147494;Middle Pleistocene;;0.774;0.129
+872324;occ;NA;NA;96682;Naria erosa;NA;species;60031;Middle Pleistocene;;0.774;0.129
+872325;occ;NA;NA;96682;Cypraea (Erosaria) helvola;NA;species;60034;Middle Pleistocene;;0.774;0.129
+872326;occ;NA;NA;96682;Nucleolaria granulata;NA;species;147496;Middle Pleistocene;;0.774;0.129
+872327;occ;NA;NA;96682;Luria isabella;NA;species;60036;Middle Pleistocene;;0.774;0.129
+872328;occ;NA;NA;96682;Erosaria poraria;NA;species;343049;Middle Pleistocene;;0.774;0.129
+872329;occ;NA;NA;96682;Cypraea;NA;genus;9724;Middle Pleistocene;;0.774;0.129
+872335;occ;NA;NA;96682;Mauritia maculifera;NA;species;147498;Middle Pleistocene;;0.774;0.129
+872336;occ;NA;NA;96682;Mauritia mauritiana;NA;species;115688;Middle Pleistocene;;0.774;0.129
+872527;occ;NA;NA;96696;Cypraea;NA;genus;9724;Late Pliocene;;3.6;2.58
+873301;occ;NA;NA;96787;Purpuradusta microdon;NA;species;343097;Late Pleistocene;;0.129;0.0117
+873302;occ;NA;NA;96787;Erronea caurica;NA;species;60027;Late Pleistocene;;0.129;0.0117
+873303;occ;NA;NA;96787;Talparia talpa;NA;species;342289;Late Pleistocene;;0.129;0.0117
+873304;occ;NA;NA;96787;Luria isabella;NA;species;60036;Late Pleistocene;;0.129;0.0117
+873305;occ;NA;NA;96787;Monetaria annulus;NA;species;60022;Late Pleistocene;;0.129;0.0117
+873306;occ;NA;NA;96787;Cypraea pantherina;NA;species;336507;Late Pleistocene;;0.129;0.0117
+873307;occ;NA;NA;96787;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+873308;occ;NA;NA;96787;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+873309;occ;NA;NA;96795;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+873310;occ;NA;NA;96793;Cypraea (Erosaria) caputserpentis;NA;species;147494;Late Pleistocene;;0.129;0.0117
+873311;occ;NA;NA;96787;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+873312;occ;NA;NA;96789;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+873313;occ;NA;NA;96791;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+873314;occ;NA;NA;96795;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+873315;occ;NA;NA;96798;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+873316;occ;NA;NA;96787;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+873317;occ;NA;NA;96789;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+873318;occ;NA;NA;96791;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+873319;occ;NA;NA;96795;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+873320;occ;NA;NA;96787;Cypraea (Erosaria) helvola;NA;species;60034;Late Pleistocene;;0.129;0.0117
+873321;occ;NA;NA;96788;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+873322;occ;NA;NA;96787;Bistolida erythraeensis;NA;species;342141;Late Pleistocene;;0.129;0.0117
+873323;occ;NA;NA;96787;Cribrarula cribraria;NA;species;335303;Late Pleistocene;;0.129;0.0117
+873324;occ;NA;NA;96787;Pustularia cicercula;NA;species;170606;Late Pleistocene;;0.129;0.0117
+873325;occ;NA;NA;96787;Cypraea (Staphylaea) nucleus;NA;species;170608;Late Pleistocene;;0.129;0.0117
+873489;occ;NA;NA;96864;Pseudozonaria nigropunctata;NA;species;187644;Late Pleistocene;;0.129;0.0117
+873511;occ;NA;NA;96866;Pseudozonaria nigropunctata;NA;species;187644;Late Pleistocene;;0.129;0.0117
+873582;occ;NA;NA;96867;Pseudozonaria nigropunctata;NA;species;187644;Late Pleistocene;;0.129;0.0117
+873694;occ;NA;NA;96870;Pseudozonaria arabicula;NA;species;187653;Late Pleistocene;;0.129;0.0117
+873854;occ;NA;NA;96892;Cypraeidae;NA;family;60047;Holocene;;0.0117;0
+874278;occ;NA;NA;96926;Cypraea (Erosaria) caputserpentis;NA;species;147494;Holocene;;0.0117;0
+874279;occ;NA;NA;96926;Cypraea (Erosaria) helvola;NA;species;60034;Holocene;;0.0117;0
+874595;occ;NA;NA;96936;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+874717;occ;23375;NA;96945;Purpuradusta gracilis;NA;species;170610;Late Pleistocene;;0.129;0.0117
+874739;occ;23376;NA;96943;Purpuradusta gracilis;NA;species;170610;Late Pleistocene;;0.129;0.0117
+875749;occ;NA;NA;97077;Erronea;NA;genus;9826;Piacenzian;;3.6;2.58
+877454;occ;NA;NA;97233;Neobernaya spadicea;NA;species;335362;Early Pliocene;;5.333;3.6
+877740;occ;NA;NA;97437;Luria isabella;NA;species;60036;Holocene;;0.0117;0
+877744;occ;NA;NA;97437;Cypraea (Staphylaea) nucleus;NA;species;170608;Holocene;;0.0117;0
+877745;occ;NA;NA;97437;Ipsa childreni;NA;species;91930;Holocene;;0.0117;0
+877746;occ;NA;NA;97437;Talostolida teres;NA;species;170596;Holocene;;0.0117;0
+877768;occ;NA;NA;97438;Luria isabella;NA;species;60036;Holocene;;0.0117;0
+877772;occ;NA;NA;97438;Cypraea (Staphylaea) nucleus;NA;species;170608;Holocene;;0.0117;0
+877773;occ;NA;NA;97438;Ipsa childreni;NA;species;91930;Holocene;;0.0117;0
+877776;occ;NA;NA;97438;Talostolida teres;NA;species;170596;Holocene;;0.0117;0
+887122;occ;NA;NA;90471;Cypraeorbis ventripotens;NA;species;342144;Bartonian;;41.03;37.71
+889138;occ;NA;NA;90600;Cypraeorbis alabamensis;NA;species;341802;Bartonian;;41.03;37.71
+889766;occ;NA;NA;92033;Cypraeorbis nuculoides;NA;species;343018;Bartonian;;41.03;37.71
+890386;occ;NA;NA;98433;Cypraea;NA;genus;9724;Danian;Selandian;66;59.24
+890446;occ;NA;NA;92175;Cypraeorbis nuculoides;NA;species;343018;Bartonian;;41.03;37.71
+890653;occ;NA;NA;98495;Cypraeorbis nuculoides;NA;species;343018;Bartonian;;41.03;37.71
+890712;occ;NA;NA;98528;Cypraea;NA;genus;9724;Danian;Selandian;66;59.24
+890918;occ;NA;NA;92371;Cypraea;NA;genus;9724;Selandian;;61.66;59.24
+892180;occ;NA;NA;91791;Cypraea;NA;genus;9724;Danian;;66;61.66
+893079;occ;NA;NA;92300;Cypraeorbis ventripotens;NA;species;342144;Priabonian;;37.71;33.9
+893204;occ;NA;NA;92374;Cypraeorbis ventripotens;NA;species;342144;Bartonian;;41.03;37.71
+893676;occ;NA;NA;91736;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893677;occ;NA;NA;91736;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893678;occ;NA;NA;91736;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893679;occ;NA;NA;91736;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893680;occ;NA;NA;91736;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893712;occ;NA;NA;91737;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893713;occ;NA;NA;91737;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893714;occ;NA;NA;91737;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+893922;occ;NA;NA;91762;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+894209;occ;NA;NA;91550;Cypraea;NA;genus;9724;Ypresian;;56;48.07
+895044;occ;NA;NA;99193;Gisortia harrisi;NA;species;335330;Priabonian;;37.71;33.9
+895056;occ;NA;NA;99195;Gisortia harrisi;NA;species;335330;Priabonian;;37.71;33.9
+895142;occ;NA;NA;99205;Gisortia harrisi;NA;species;335330;Priabonian;;37.71;33.9
+895143;occ;NA;NA;99206;Gisortia harrisi;NA;species;335330;Priabonian;;37.71;33.9
+895146;occ;NA;NA;99208;Gisortia harrisi;NA;species;335330;Bartonian;Priabonian;41.03;33.9
+895317;occ;NA;NA;99247;Gisortia harrisi;NA;species;335330;Bartonian;Priabonian;41.03;33.9
+895334;occ;NA;NA;99252;Gisortia harrisi;NA;species;335330;Priabonian;;37.71;33.9
+895373;occ;NA;NA;99264;Cypraea;NA;genus;9724;Ypresian;;56;48.07
+895383;occ;NA;NA;99267;Cypraea;NA;genus;9724;Ypresian;;56;48.07
+904040;occ;NA;NA;101414;Cypraea (Lyncina) lynx;NA;species;60039;Pleistocene;;2.58;0.0117
+904041;occ;NA;NA;101414;Lyncina carneola;NA;species;60026;Pleistocene;;2.58;0.0117
+904042;occ;NA;NA;101414;Naria erosa;NA;species;60031;Pleistocene;;2.58;0.0117
+904043;occ;NA;NA;101414;Erosaria turdus;NA;species;335350;Pleistocene;;2.58;0.0117
+904044;occ;NA;NA;101414;Erosaria eburnea;NA;species;91939;Pleistocene;;2.58;0.0117
+904045;occ;NA;NA;101414;Monetaria moneta;NA;species;60041;Pleistocene;;2.58;0.0117
+904046;occ;NA;NA;101414;Cypraea;NA;genus;9724;Pleistocene;;2.58;0.0117
+904129;occ;NA;NA;101415;Cypraea pantherina;NA;species;336507;Pleistocene;;2.58;0.0117
+904130;occ;NA;NA;101415;Mauritia arabica;NA;species;60023;Pleistocene;;2.58;0.0117
+904131;occ;NA;NA;101415;Lyncina carneola;NA;species;60026;Pleistocene;;2.58;0.0117
+904132;occ;NA;NA;101415;Naria erosa;NA;species;60031;Pleistocene;;2.58;0.0117
+904133;occ;NA;NA;101415;Erosaria turdus;NA;species;335350;Pleistocene;;2.58;0.0117
+904134;occ;NA;NA;101415;Luria isabella;NA;species;60036;Pleistocene;;2.58;0.0117
+904135;occ;NA;NA;101415;Bistolida erythraeensis;NA;species;342141;Pleistocene;;2.58;0.0117
+904226;occ;NA;NA;101417;Erosaria turdus;NA;species;335350;Pleistocene;;2.58;0.0117
+904227;occ;NA;NA;101417;Erosaria eburnea;NA;species;91939;Pleistocene;;2.58;0.0117
+904519;occ;NA;NA;101543;Erosaria turdus;NA;species;335350;Late Pleistocene;;0.129;0.0117
+904520;occ;NA;NA;101543;Erosaria eburnea;NA;species;91939;Late Pleistocene;;0.129;0.0117
+906845;occ;NA;NA;101967;Gisortia gigantea;NA;species;114125;Priabonian;;37.71;33.9
+908280;occ;NA;NA;102285;Gisortia gigantea;NA;species;114125;Ypresian;;56;48.07
+914754;occ;NA;NA;103866;Gisortia gigantea;NA;species;114125;Lutetian;;48.07;41.03
+929861;occ;30496;NA;106367;Muracypraea hyaena;NA;species;249683;Burdigalian;Langhian;20.45;13.82
+936130;occ;NA;NA;107971;Erosaria ocellata;NA;species;335946;Late Pleistocene;;0.129;0.0117
+936131;occ;NA;NA;107971;Cypraea tigris;NA;species;60045;Late Pleistocene;;0.129;0.0117
+936132;occ;NA;NA;107971;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+936153;occ;NA;NA;107972;Staphylaea (Staphylaea) staphylaea;NA;species;60043;Late Pleistocene;;0.129;0.0117
+942352;occ;NA;NA;91803;Cypraea;NA;genus;9724;Danian;;66;61.66
+951071;occ;NA;NA;111011;Pseudozonaria fehsei;NA;species;187655;Late Pliocene;;3.6;2.58
+951085;occ;NA;NA;111010;Pseudozonaria fehsei;NA;species;187655;Late Pliocene;;3.6;2.58
+951086;occ;NA;NA;111010;Muracypraea grahami;NA;species;167379;Late Pliocene;;3.6;2.58
+951517;occ;NA;NA;111211;Pseudozonaria cathyae;NA;species;187657;Early Pliocene;;5.333;3.6
+953789;occ;NA;NA;111544;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+953809;occ;NA;NA;111543;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+953823;occ;NA;NA;8122;Cypraea;NA;genus;9724;Late Eocene;;37.71;33.9
+953841;occ;NA;NA;111546;Cypraea;NA;genus;9724;Early Oligocene;;33.9;27.03
+953865;occ;NA;NA;111547;Cypraea;NA;genus;9724;Early Oligocene;;33.9;27.03
+953877;occ;NA;NA;111548;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+954202;occ;NA;NA;111599;Cypraeinae;NA;subfamily;60048;Burdigalian;;20.45;15.98
+960424;occ;NA;NA;112577;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+960543;occ;NA;NA;112582;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+960544;occ;NA;NA;112582;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+960743;occ;NA;NA;65162;Siphocypraea macrovoluta;NA;species;342989;Early Miocene;;23.04;15.98
+960965;occ;NA;NA;112590;Siphocypraea macrovoluta;NA;species;342989;Early Miocene;;23.04;15.98
+960966;occ;NA;NA;112590;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+961139;occ;NA;NA;58454;Siphocypraea macrovoluta;NA;species;342989;Langhian;Serravallian;15.98;11.63
+961140;occ;NA;NA;58454;Cypraea pennae;NA;species;335327;Langhian;Serravallian;15.98;11.63
+961255;occ;NA;NA;112596;Siphocypraea pennai;NA;species;342802;Early Miocene;;23.04;15.98
+961293;occ;NA;NA;112598;Cypraea pennae;NA;species;335327;Early Miocene;;23.04;15.98
+1004123;occ;NA;NA;122245;Zonaria (Zonaria) pyrum;NA;species;164300;Late Pleistocene;;0.129;0.0117
+1007679;occ;NA;NA;122945;Cypraeovula (Cypraeovula) capensis;NA;species;338815;Pleistocene;;2.58;0.0117
+1007713;occ;NA;NA;122947;Mauritia arabica;NA;species;60023;Pleistocene;;2.58;0.0117
+1007714;occ;NA;NA;122947;Naria erosa;NA;species;60031;Pleistocene;;2.58;0.0117
+1007715;occ;NA;NA;122947;Cypraea (Erosaria) helvola;NA;species;60034;Pleistocene;;2.58;0.0117
+1007716;occ;NA;NA;122947;Cypraea (Erosaria) caputserpentis;NA;species;147494;Pleistocene;;2.58;0.0117
+1007717;occ;NA;NA;122947;Erronea (Melicerona) felina;NA;species;342613;Pleistocene;;2.58;0.0117
+1007718;occ;NA;NA;122947;Cypraea (Staphylaea) nucleus;NA;species;170608;Pleistocene;;2.58;0.0117
+1040326;occ;NA;NA;127360;Erosaria spurca;NA;species;109031;Late Pleistocene;;0.129;0.0117
+1040327;occ;NA;NA;127360;Luria lurida;NA;species;115680;Late Pleistocene;;0.129;0.0117
+1040387;occ;NA;NA;127358;Luria lurida;NA;species;115680;Late Pleistocene;;0.129;0.0117
+1041617;occ;NA;NA;127592;Luria lurida;NA;species;115680;Late Pleistocene;;0.129;0.0117
+1044624;occ;NA;NA;128324;Trona stercoraria;NA;species;249692;Middle Pleistocene;;0.774;0.129
+1044673;occ;NA;NA;128325;Trona stercoraria;NA;species;249692;Middle Pleistocene;;0.774;0.129
+1044994;occ;NA;NA;128385;Zonaria zonata;NA;species;164296;Late Pleistocene;;0.129;0.0117
+1062000;occ;NA;NA;131220;Cypraeorbis noveli;NA;species;109030;Late Miocene;;11.63;5.333
+1062066;occ;NA;NA;131220;Muracypraea henekeni;NA;species;161733;Late Miocene;;11.63;5.333
+1062682;occ;NA;NA;131210;Muracypraea mus;NA;species;105974;Late Pliocene;;3.6;2.58
+1063132;occ;NA;NA;131217;Muracypraea mus;NA;species;105974;Late Pliocene;;3.6;2.58
+1063197;occ;NA;NA;131218;Cypraeidae;NA;family;60047;Late Pliocene;;3.6;2.58
+1066927;occ;NA;NA;131977;Prozonarina fabagina;NA;species;114844;Messinian;;7.246;5.333
+1077419;occ;NA;NA;134667;Propustularia parisimina;NA;species;248640;Pliocene;;5.333;2.58
+1077420;occ;NA;NA;134667;Luria dominicensis;NA;species;109034;Pliocene;;5.333;2.58
+1077421;occ;NA;NA;134669;Cypraea (Luria) cinerea;NA;species;167360;Pliocene;;5.333;2.58
+1077422;occ;NA;NA;134663;Siphocypraea almirantensis;NA;species;167702;Piacenzian;;3.6;2.58
+1078517;occ;NA;NA;131267;Muracypraea mus;NA;species;105974;Pleistocene;;2.58;0.0117
+1081675;occ;NA;NA;96434;Luria cantaurana;NA;species;249690;Burdigalian;;20.45;15.98
+1081676;occ;NA;NA;96434;Luria isabellaprimitiva;NA;species;249691;Burdigalian;;20.45;15.98
+1081689;occ;NA;NA;96434;Trona ingrami;NA;species;249694;Burdigalian;;20.45;15.98
+1081690;occ;NA;NA;96434;Trona trinitatensis;NA;species;106997;Burdigalian;;20.45;15.98
+1081691;occ;NA;NA;96434;Propustularia longidentata;NA;species;249702;Burdigalian;;20.45;15.98
+1081692;occ;NA;NA;96434;Propustularia paraguanensis;NA;species;249716;Burdigalian;;20.45;15.98
+1081693;occ;NA;NA;96434;Zonaria pingata;NA;species;249719;Burdigalian;;20.45;15.98
+1081694;occ;NA;NA;96434;Zonaria pseudotumulus;NA;species;249720;Burdigalian;;20.45;15.98
+1081695;occ;NA;NA;96434;Pseudozonaria praeaequinoctialis;NA;species;249723;Burdigalian;;20.45;15.98
+1081696;occ;NA;NA;96434;Pseudozonaria primarobertsi;NA;species;249724;Burdigalian;;20.45;15.98
+1081697;occ;NA;NA;96434;Pseudozonaria falconensis;NA;species;249725;Burdigalian;;20.45;15.98
+1081709;occ;NA;NA;96434;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1081710;occ;NA;NA;41764;Muracypraea woodringi;NA;species;187675;Late Miocene;;11.63;5.333
+1081711;occ;NA;NA;89559;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1081712;occ;NA;NA;92597;Muracypraea woodringi;NA;species;187675;Tortonian;;11.63;7.246
+1081713;occ;NA;NA;41762;Zonaria (Zonaria) pittorum;NA;species;335539;Early Pliocene;;5.333;3.6
+1081714;occ;NA;NA;96519;Propustularia bartschi;NA;species;249792;Late Pliocene;;3.6;2.58
+1081792;occ;NA;NA;135818;Muracypraea;NA;genus;109216;Serravallian;;13.82;11.63
+1083305;occ;NA;NA;136016;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1084184;occ;NA;NA;130981;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085002;occ;NA;NA;131569;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085018;occ;NA;NA;84977;Cypraeidae;NA;family;60047;Early Pliocene;;5.333;3.6
+1085102;occ;NA;NA;94000;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085111;occ;NA;NA;94104;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085141;occ;NA;NA;84965;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085158;occ;NA;NA;93797;Macrocypraea zebra;NA;species;109181;Messinian;;7.246;5.333
+1085163;occ;NA;NA;131660;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085164;occ;NA;NA;131660;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085172;occ;NA;NA;84960;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085248;occ;NA;NA;131645;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085249;occ;NA;NA;131645;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085260;occ;NA;NA;84952;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085265;occ;NA;NA;131656;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085286;occ;NA;NA;131658;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085296;occ;NA;NA;131643;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085342;occ;NA;NA;94106;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085343;occ;NA;NA;94106;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085403;occ;NA;NA;84953;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085425;occ;NA;NA;131369;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085454;occ;NA;NA;131371;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085753;occ;NA;NA;131377;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085769;occ;NA;NA;131468;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1085779;occ;NA;NA;131677;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085802;occ;NA;NA;131675;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1085840;occ;NA;NA;84956;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085885;occ;NA;NA;93737;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+1085886;occ;NA;NA;93737;Propustularia;NA;genus;10318;Zanclean;;5.333;3.6
+1085887;occ;NA;NA;93737;Pseudozonaria raymondrobertsi;NA;species;335320;Zanclean;;5.333;3.6
+1085888;occ;NA;NA;93737;Erosaria spurca;NA;species;109031;Zanclean;;5.333;3.6
+1085889;occ;NA;NA;93737;Muracypraea henekeni;NA;species;161733;Zanclean;;5.333;3.6
+1085909;occ;NA;NA;131494;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085910;occ;NA;NA;131494;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;;7.246;5.333
+1085935;occ;NA;NA;84986;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085946;occ;NA;NA;131674;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;;7.246;5.333
+1085947;occ;NA;NA;131674;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1085952;occ;NA;NA;94101;Luria isabella;NA;species;60036;Messinian;;7.246;5.333
+1085974;occ;NA;NA;93733;Macrocypraea zebra;NA;species;109181;Zanclean;;5.333;3.6
+1085975;occ;NA;NA;93733;Pseudozonaria raymondrobertsi;NA;species;335320;Zanclean;;5.333;3.6
+1085976;occ;NA;NA;93733;Luria isabella;NA;species;60036;Zanclean;;5.333;3.6
+1086001;occ;NA;NA;84983;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086023;occ;NA;NA;93996;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086024;occ;NA;NA;93996;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1086051;occ;NA;NA;94006;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;;7.246;5.333
+1086052;occ;NA;NA;94006;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086075;occ;NA;NA;131387;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086094;occ;NA;NA;131374;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;;7.246;5.333
+1086109;occ;NA;NA;84984;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086129;occ;NA;NA;94099;Muracypraea henekeni;NA;species;161733;Messinian;;7.246;5.333
+1086130;occ;NA;NA;94099;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086131;occ;NA;NA;94099;Bistolida;NA;genus;59383;Messinian;;7.246;5.333
+1086132;occ;NA;NA;94099;Cypraeidae;NA;family;60047;Messinian;;7.246;5.333
+1086148;occ;NA;NA;131386;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086160;occ;NA;NA;131497;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086179;occ;NA;NA;131496;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086184;occ;NA;NA;84989;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086221;occ;NA;NA;93717;Erosaria spurca;NA;species;109031;Messinian;;7.246;5.333
+1086222;occ;NA;NA;93717;Pseudozonaria raymondrobertsi;NA;species;335320;Messinian;;7.246;5.333
+1088980;occ;NA;NA;96538;Macrocypraea cervus;NA;species;156624;Late Pleistocene;;0.129;0.0117
+1089222;occ;NA;NA;136880;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1089263;occ;NA;NA;136879;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1089304;occ;NA;NA;136907;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1089384;occ;NA;NA;136909;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1089989;occ;NA;NA;111204;Loxacypraea chilona;NA;species;187671;Serravallian;;13.82;11.63
+1140928;occ;NA;NA;145255;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1140938;occ;NA;NA;145283;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1140980;occ;NA;NA;145254;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1143084;occ;NA;NA;145524;Cypraeidae;NA;family;60047;Tortonian;;11.63;7.246
+1143202;occ;NA;NA;145523;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1143282;occ;NA;NA;145522;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1143371;occ;NA;NA;145520;Cypraeidae;NA;family;60047;Tortonian;;11.63;7.246
+1143382;occ;NA;NA;145520;Muracypraea henekeni;NA;species;161733;Tortonian;;11.63;7.246
+1143561;occ;NA;NA;145561;Loxacypraea chilona;NA;species;187671;Aquitanian;;23.04;20.45
+1145667;occ;NA;NA;145900;Cypraeidae;NA;family;60047;Badenian;;13.82;12.8
+1148648;occ;NA;NA;146509;Cypraea;NA;genus;9724;Langhian;;15.98;13.82
+1150764;occ;NA;NA;146874;Pseudadusta lindae;NA;species;342724;Pliocene;;5.333;2.58
+1150797;occ;NA;NA;146875;Akleistostoma pilsbryi;NA;species;341755;Pliocene;;5.333;2.58
+1174122;occ;NA;NA;151431;Cypraea;NA;genus;9724;Miocene;;23.04;5.333
+1176934;occ;NA;NA;151619;Cypraeidae;NA;family;60047;Maastrichtian;;72.2;66
+1176966;occ;NA;NA;151653;Cypraeidae;NA;family;60047;Late Campanian;Early Maastrichtian;83.6;66
+1176982;occ;NA;NA;151655;Cypraeidae;NA;family;60047;Campanian;Maastrichtian;83.6;66
+1184001;occ;NA;NA;152645;Trona stercoraria;NA;species;249692;Middle Pleistocene;;0.774;0.129
+1206133;occ;NA;NA;156367;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1206748;occ;NA;NA;156524;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1206842;occ;NA;NA;156551;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1207465;occ;NA;NA;156691;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1208045;occ;NA;NA;156751;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1208046;occ;NA;NA;156751;Luria;NA;genus;115679;Burdigalian;;20.45;15.98
+1208081;occ;NA;NA;156753;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1208268;occ;NA;NA;156797;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1208311;occ;NA;NA;156798;Muracypraea hyaena;NA;species;249683;Burdigalian;Langhian;20.45;13.82
+1214131;occ;NA;NA;157828;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1214168;occ;NA;NA;157830;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1214323;occ;NA;NA;157858;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1214351;occ;NA;NA;157859;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1214683;occ;NA;NA;136994;Cypraeidae;NA;family;60047;Late Pliocene;;3.6;2.58
+1214788;occ;NA;NA;157969;Cypraeidae;NA;family;60047;Late Pliocene;;3.6;2.58
+1214835;occ;NA;NA;157978;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1215081;occ;NA;NA;158040;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1215274;occ;NA;NA;158097;Muracypraea hyaena;NA;species;249683;Langhian;;15.98;13.82
+1215698;occ;NA;NA;156832;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1216969;occ;NA;NA;158994;Nucleolaria cowlitziana;NA;species;300491;Bartonian;;41.03;37.71
+1224856;occ;NA;NA;160776;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1225062;occ;NA;NA;160816;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1225079;occ;NA;NA;160815;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1225093;occ;NA;NA;160814;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1228581;occ;NA;NA;161622;Muracypraea hyaena;NA;species;249683;Burdigalian;;20.45;15.98
+1229377;occ;NA;NA;161785;Cypraea (Mauritia) histrio;NA;species;305620;Messinian;;7.246;5.333
+1229378;occ;NA;NA;161785;Cypraea (Zoila) itoigawai;NA;species;305623;Messinian;;7.246;5.333
+1230813;occ;NA;NA;162001;Luria;NA;genus;115679;Langhian;;15.98;13.82
+1252876;occ;NA;NA;107972;Monetaria annulus;NA;species;60022;Late Pleistocene;;0.129;0.0117
+1252877;occ;NA;NA;107972;Palmadusta clandestina;NA;species;342033;Late Pleistocene;;0.129;0.0117
+1252878;occ;NA;NA;107972;Mauritia grayana;NA;species;342944;Late Pleistocene;;0.129;0.0117
+1256856;occ;NA;NA;166744;Zoila platypyga;NA;species;335737;Zanclean;;5.333;3.6
+1257072;occ;NA;NA;166810;Cypraea;NA;genus;9724;Tortonian;Zanclean;11.63;3.6
+1284829;occ;NA;NA;170993;Palaeocypraea eripnides;NA;species;84135;Rupelian;;33.9;27.03
+1284830;occ;NA;NA;170994;Lyncina (Austrocypraea) onkastoma;NA;species;334851;Priabonian;;37.71;33.9
+1298534;occ;NA;NA;173265;Ovatipsa chinensis;NA;species;328430;Calabrian;;1.8;0.774
+1299338;occ;NA;NA;173459;Zonaria spurcoides;NA;species;109032;Early Oligocene;Middle Miocene;33.9;11.63
+1309687;occ;NA;NA;80600;Mauritia arabica;NA;species;60023;Late Pleistocene;;0.129;0.0117
+1310948;occ;NA;NA;175971;Palaeocypraea eripnides;NA;species;84135;Teurian;Waipawan;66;52
+1310952;occ;NA;NA;48647;Umbilia (Umbilia) platyrhyncha;NA;species;334867;Chattian;;27.03;23.04
+1310972;occ;NA;NA;175979;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311033;occ;NA;NA;71239;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311034;occ;NA;NA;28307;Umbilia (Umbilia) angustior;NA;species;334870;Aquitanian;;23.04;20.45
+1311035;occ;NA;NA;48649;Umbilia (Umbilia) angustior;NA;species;334870;Early Oligocene;Late Oligocene;33.9;23.04
+1311036;occ;NA;NA;71240;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311037;occ;NA;NA;175996;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311038;occ;NA;NA;175997;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311039;occ;NA;NA;175998;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311040;occ;NA;NA;175999;Umbilia (Umbilia) angustior;NA;species;334870;Early Miocene;;23.04;15.98
+1311045;occ;NA;NA;176003;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+1311046;occ;NA;NA;71242;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+1311047;occ;NA;NA;176004;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Langhian;;15.98;13.82
+1311048;occ;NA;NA;72209;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+1311135;occ;NA;NA;176021;Palaeocypraea fontana;NA;species;335056;Early Albian;;113.2;110.1
+1311136;occ;NA;NA;176022;Palaeocypraea grooti;NA;species;335062;Early Maastrichtian;;72.2;66
+1311138;occ;NA;NA;176023;Palaeocypraea squyeri;NA;species;335050;Maastrichtian;;72.2;66
+1311139;occ;NA;NA;78124;Bernaya (Bernaya) burlingtonensis;NA;species;335090;Maastrichtian;;72.2;66
+1311140;occ;NA;NA;60806;Bernaya (Bernaya) crawfordcatei;NA;species;335100;Late Campanian;;83.6;72.2
+1311141;occ;NA;NA;176024;Bernaya (Protocypraea) argonautica;NA;species;335097;Turonian;;93.9;89.8
+1311142;occ;NA;NA;176025;Bernaya (Protocypraea) argonautica;NA;species;335097;Cenomanian;Turonian;100.5;89.8
+1311143;occ;NA;NA;176026;Bernaya (Protocypraea) berryessae;NA;species;335103;Turonian;;93.9;89.8
+1311144;occ;NA;NA;60806;Bernaya (Protocypraea) rineyi;NA;species;335109;Late Campanian;;83.6;72.2
+1311145;occ;NA;NA;99312;Bernaya (Protocypraea) rineyi;NA;species;335109;Late Campanian;;83.6;72.2
+1311147;occ;NA;NA;176027;Austrocypraea amae;NA;species;335140;Late Pliocene;;3.6;2.58
+1312106;occ;NA;NA;79943;Lyncina amygdalina;NA;species;341786;Lutetian;;48.07;41.03
+1312107;occ;NA;NA;79943;Bernaya (Bernaya) obesa;NA;species;335373;Lutetian;;48.07;41.03
+1312110;occ;NA;NA;79943;Macrocypraea veintensis;NA;species;335376;Lutetian;;48.07;41.03
+1312111;occ;NA;NA;79943;Eopustularia bartonensis;NA;species;335377;Lutetian;;48.07;41.03
+1312112;occ;NA;NA;79943;Eopustularia acyensis;NA;species;335383;Lutetian;;48.07;41.03
+1312113;occ;NA;NA;79943;Proadusta;NA;genus;10309;Lutetian;;48.07;41.03
+1312116;occ;NA;NA;79943;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1313077;occ;NA;NA;41757;Zonaria (Pseudozonaria) cathyae;NA;species;335540;Early Pliocene;;5.333;3.6
+1313080;occ;NA;NA;46167;Umbilia (Umbilia) hesitata;NA;species;84140;Messinian;;7.246;5.333
+1313081;occ;NA;NA;176218;Umbilia (Umbilia) eximia;NA;species;84137;Langhian;;15.98;13.82
+1313082;occ;NA;NA;176219;Umbilia (Umbilia) eximia;NA;species;84137;Langhian;Serravallian;15.98;11.63
+1313517;occ;NA;NA;176271;Umbilia (Umbilia) hesitata;NA;species;84140;Late Miocene;;11.63;5.333
+1313518;occ;NA;NA;176272;Zoila chathamensis;NA;species;335720;Waipawan;;56;52
+1313521;occ;NA;NA;176275;Zoila viathomsoni;NA;species;335722;Priabonian;;37.71;33.9
+1313524;occ;NA;NA;176276;Zoila didymorhyncha;NA;species;335725;Chattian;;27.03;23.04
+1313525;occ;NA;NA;176277;Zoila glomerabilis;NA;species;335726;Chattian;;27.03;23.04
+1313526;occ;NA;NA;48647;Zoila glomerabilis;NA;species;335726;Chattian;;27.03;23.04
+1313527;occ;NA;NA;176278;Zoila glomerabilis;NA;species;335726;Chattian;;27.03;23.04
+1313528;occ;NA;NA;174152;Zoila glomerabilis;NA;species;335726;Chattian;;27.03;23.04
+1313529;occ;NA;NA;176279;Zoila glomerabilis;NA;species;335726;Chattian;;27.03;23.04
+1313530;occ;NA;NA;175997;Zoila glomerabilis;NA;species;335726;Early Miocene;;23.04;15.98
+1313531;occ;NA;NA;175979;Zoila dolichorhyncha;NA;species;335727;Early Miocene;;23.04;15.98
+1313532;occ;NA;NA;176280;Zoila mulderi;NA;species;335728;Early Miocene;;23.04;15.98
+1313533;occ;NA;NA;72193;Zoila mulderi;NA;species;335728;Early Miocene;;23.04;15.98
+1313534;occ;NA;NA;176281;Zoila mulderi;NA;species;335728;Langhian;;15.98;13.82
+1313535;occ;NA;NA;51397;Zoila mulderi;NA;species;335728;Middle Miocene;;15.98;11.63
+1313539;occ;NA;NA;152464;Austrocypraea amae;NA;species;335140;Gelasian;;2.58;1.8
+1313540;occ;NA;NA;152476;Austrocypraea amae;NA;species;335140;Gelasian;;2.58;1.8
+1313541;occ;NA;NA;176028;Zoila campestris;NA;species;335761;Late Pliocene;;3.6;2.58
+1313542;occ;NA;NA;176029;Zoila campestris;NA;species;335761;Late Pliocene;;3.6;2.58
+1313543;occ;NA;NA;176028;Zoila fodinata;NA;species;335762;Late Pliocene;;3.6;2.58
+1313616;occ;NA;NA;176028;Umbilia (Umbilia) hesitata;NA;species;84140;Late Pliocene;;3.6;2.58
+1313617;occ;NA;NA;152476;Umbilia (Umbilia) hesitata;NA;species;84140;Gelasian;;2.58;1.8
+1313618;occ;NA;NA;152476;Zoila campestris;NA;species;335761;Gelasian;;2.58;1.8
+1313619;occ;NA;NA;176029;Umbilia (Umbilia) hesitata;NA;species;84140;Late Pliocene;;3.6;2.58
+1313620;occ;NA;NA;71240;Umbilia (Umbilia) eximia;NA;species;84137;Early Miocene;;23.04;15.98
+1313784;occ;NA;NA;48647;Umbilia (Umbilia) prosila;NA;species;84143;Chattian;;27.03;23.04
+1313785;occ;NA;NA;176293;Umbilia (Umbilia) prosila;NA;species;84143;Chattian;;27.03;23.04
+1313786;occ;NA;NA;51394;Zoila gigas;NA;species;335748;Chattian;;27.03;23.04
+1313787;occ;NA;NA;71238;Umbilia (Umbilia) prosila;NA;species;84143;Late Oligocene;Early Miocene;27.03;15.98
+1313788;occ;NA;NA;71238;Zoila gigas;NA;species;335748;Late Oligocene;Early Miocene;27.03;15.98
+1313789;occ;NA;NA;176294;Umbilia (Umbilia) prosila;NA;species;84143;Chattian;;27.03;23.04
+1313790;occ;NA;NA;176295;Umbilia (Umbilia) prosila;NA;species;84143;Chattian;;27.03;23.04
+1313791;occ;NA;NA;176296;Umbilia (Umbilia) prosila;NA;species;84143;Chattian;;27.03;23.04
+1313792;occ;NA;NA;50070;Zoila gigas;NA;species;335748;Chattian;;27.03;23.04
+1313793;occ;NA;NA;176297;Zoila gigas;NA;species;335748;Middle Miocene;;15.98;11.63
+1313798;occ;NA;NA;51397;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Middle Miocene;;15.98;11.63
+1313848;occ;NA;NA;176298;Umbilia (Umbilia) eximia;NA;species;84137;Langhian;;15.98;13.82
+1313849;occ;NA;NA;176298;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Langhian;;15.98;13.82
+1313850;occ;NA;NA;176003;Zoila platypyga;NA;species;335737;Middle Miocene;;15.98;11.63
+1313851;occ;NA;NA;176003;Zoila gigas;NA;species;335748;Middle Miocene;;15.98;11.63
+1313852;occ;NA;NA;176003;Umbilia (Palliocypraea) gastroplax;NA;species;335772;Middle Miocene;;15.98;11.63
+1313853;occ;NA;NA;176003;Umbilia (Umbilia) eximia;NA;species;84137;Middle Miocene;;15.98;11.63
+1313854;occ;NA;NA;176299;Umbilia (Umbilia) eximia;NA;species;84137;Langhian;;15.98;13.82
+1313855;occ;NA;NA;176299;Zoila platypyga;NA;species;335737;Langhian;;15.98;13.82
+1313856;occ;NA;NA;176299;Zoila gigas;NA;species;335748;Langhian;;15.98;13.82
+1313857;occ;NA;NA;176299;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Langhian;;15.98;13.82
+1313858;occ;NA;NA;176299;Umbilia (Palliocypraea) gastroplax;NA;species;335772;Langhian;;15.98;13.82
+1313859;occ;NA;NA;176299;Umbilia (Umbilia) siphonata;NA;species;84145;Langhian;;15.98;13.82
+1313860;occ;NA;NA;71351;Zoila gigas;NA;species;335748;Middle Miocene;;15.98;11.63
+1313861;occ;NA;NA;71351;Umbilia (Umbilia) siphonata;NA;species;84145;Middle Miocene;;15.98;11.63
+1313862;occ;NA;NA;176300;Zoila platypyga;NA;species;335737;Langhian;;15.98;13.82
+1313863;occ;NA;NA;176301;Umbilia (Umbilia) eximia;NA;species;84137;Langhian;;15.98;13.82
+1313864;occ;NA;NA;176301;Umbilia (Umbilia) leptorhyncha;NA;species;334909;Langhian;;15.98;13.82
+1313867;occ;NA;NA;176302;Zoila gigas;NA;species;335748;Langhian;Serravallian;15.98;11.63
+1313868;occ;NA;NA;176303;Zoila gigas;NA;species;335748;Burdigalian;;20.45;15.98
+1313869;occ;NA;NA;71242;Zoila gigas;NA;species;335748;Middle Miocene;;15.98;11.63
+1314085;occ;NA;NA;70539;Cypraea;NA;genus;9724;Middle Miocene;;15.98;11.63
+1314229;occ;NA;NA;176337;Austrocypraea towncreekensis;NA;species;336055;Middle Eocene;;48.07;37.71
+1314252;occ;NA;NA;164232;Cypraeorbis ventripotens;NA;species;342144;Bartonian;;41.03;37.71
+1314499;occ;NA;NA;176361;Subepona goedertorum;NA;species;336210;Ypresian;;56;48.07
+1314500;occ;NA;NA;176362;Subepona goedertorum;NA;species;336210;Ypresian;;56;48.07
+1314506;occ;NA;NA;176363;Bernaya (Protocypraea) louellasaulae;NA;species;336238;Middle Campanian;;83.6;72.2
+1314508;occ;NA;NA;176363;Bernaya (Protocypraea) popenoei;NA;species;336250;Middle Campanian;;83.6;72.2
+1314513;occ;NA;NA;176365;Palaeocypraea wilfredi;NA;species;336242;Early Campanian;;83.6;72.2
+1314514;occ;NA;NA;176369;Bernaya (Protocypraea) popenoei;NA;species;336250;Early Campanian;;83.6;72.2
+1314541;occ;NA;NA;176365;Bernaya (Bernaya) jeanae;NA;species;336261;Early Campanian;;83.6;72.2
+1314612;occ;NA;NA;176395;Bernaya (Bernaya) beardi;NA;species;336277;Late Santonian;Early Campanian;85.7;72.2
+1314613;occ;NA;NA;176396;Bernaya (Bernaya) crawfordcatei;NA;species;335100;Late Campanian;;83.6;72.2
+1314614;occ;NA;NA;176397;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;Early Maastrichtian;83.6;66
+1314615;occ;NA;NA;176398;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;Early Maastrichtian;83.6;66
+1314616;occ;NA;NA;60806;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;;83.6;72.2
+1314617;occ;NA;NA;176399;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;Early Maastrichtian;83.6;66
+1314618;occ;NA;NA;176400;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;;83.6;72.2
+1314619;occ;NA;NA;176401;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;Early Maastrichtian;83.6;66
+1314620;occ;NA;NA;99313;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;Early Maastrichtian;83.6;66
+1314621;occ;NA;NA;176402;Bernaya (Protocypraea) gualalaensis;NA;species;335105;Late Campanian;;83.6;72.2
+1314684;occ;NA;NA;176416;Umbilia caepa;NA;species;336376;Langhian;;15.98;13.82
+1314685;occ;NA;NA;176417;Umbilia caepa;NA;species;336376;Langhian;;15.98;13.82
+1314692;occ;NA;NA;176418;Austrocypraea rumballi;NA;species;337398;Langhian;;15.98;13.82
+1314693;occ;NA;NA;176416;Austrocypraea rumballi;NA;species;337398;Langhian;;15.98;13.82
+1314717;occ;NA;NA;176435;Erosaria aliena;NA;species;167685;Early Miocene;;23.04;15.98
+1314718;occ;NA;NA;152532;Notocypraea goudeyi;NA;species;336395;Gelasian;;2.58;1.8
+1314942;occ;NA;NA;176456;Propustularia kemperae;NA;species;336476;Thanetian;;59.24;56
+1314954;occ;NA;NA;176457;Protocypraea simiensis;NA;species;336478;Thanetian;;59.24;56
+1315014;occ;NA;NA;176463;Cypraeorbis gaasensis;NA;species;336513;Rupelian;;33.9;27.03
+1315015;occ;NA;NA;176463;Cypraeorbis vesicularis;NA;species;342054;Rupelian;;33.9;27.03
+1315016;occ;NA;NA;176463;Proadusta camiadorum;NA;species;342006;Rupelian;;33.9;27.03
+1315017;occ;NA;NA;176463;Proadusta distorta;NA;species;342129;Rupelian;;33.9;27.03
+1315018;occ;NA;NA;176463;Proadusta elliptica;NA;species;342585;Rupelian;;33.9;27.03
+1315019;occ;NA;NA;176463;Proadusta gemmosa;NA;species;342929;Rupelian;;33.9;27.03
+1315020;occ;NA;NA;176463;Proadusta parvissima;NA;species;342477;Rupelian;;33.9;27.03
+1315021;occ;NA;NA;176463;Proadusta rostralina;NA;species;342486;Rupelian;;33.9;27.03
+1315022;occ;NA;NA;176463;Praerosaria amoenacea;NA;species;341785;Rupelian;;33.9;27.03
+1315023;occ;NA;NA;176463;Praerosaria espibosensis;NA;species;342596;Rupelian;;33.9;27.03
+1315024;occ;NA;NA;176463;Praerosaria paulonaria;NA;species;343108;Rupelian;;33.9;27.03
+1315025;occ;NA;NA;176463;Praerosaria pseudorugosa;NA;species;342553;Rupelian;;33.9;27.03
+1315026;occ;NA;NA;176463;Praerosaria exflaveola;NA;species;336515;Rupelian;;33.9;27.03
+1315027;occ;NA;NA;176463;Monetaria moneta;NA;species;60041;Rupelian;;33.9;27.03
+1315292;occ;32099;NA;171367;Lyncina cingulata;NA;species;336696;Burdigalian;;20.45;15.98
+1315293;occ;NA;NA;171367;Mauritia (Mauritia) uzestensis;NA;species;336698;Burdigalian;;20.45;15.98
+1315318;occ;NA;NA;70203;Lyncina eristicos;NA;species;342595;Burdigalian;;20.45;15.98
+1315319;occ;NA;NA;70203;Zonarina aturensis;NA;species;341887;Burdigalian;;20.45;15.98
+1315320;occ;NA;NA;70203;Zonarina maynotensis;NA;species;342207;Burdigalian;;20.45;15.98
+1315321;occ;NA;NA;70191;Lyncina imperialis;NA;species;342968;Burdigalian;;20.45;15.98
+1315322;occ;NA;NA;70191;Lyncina magnifica;NA;species;336813;Burdigalian;;20.45;15.98
+1315323;occ;NA;NA;70191;Cypraea boucheti;NA;species;338758;Burdigalian;;20.45;15.98
+1315324;occ;NA;NA;70191;Luria (Tessellata) pelouaensis;NA;species;340302;Burdigalian;;20.45;15.98
+1315395;occ;NA;NA;152695;Lyncina maestratii;NA;species;343064;Chattian;;27.03;23.04
+1315396;occ;NA;NA;152695;Ransonia coseli;NA;species;342577;Chattian;;27.03;23.04
+1315397;occ;NA;NA;152695;Ransonia faviai;NA;species;342611;Chattian;;27.03;23.04
+1315398;occ;NA;NA;152695;Ransonia ferruginosa;NA;species;342622;Chattian;;27.03;23.04
+1315399;occ;NA;NA;152695;Ransonia senuti;NA;species;342209;Chattian;;27.03;23.04
+1315400;occ;NA;NA;152695;Prozonarina barcamorpha;NA;species;341895;Chattian;;27.03;23.04
+1315401;occ;NA;NA;152695;Praerosaria herosae;NA;species;342961;Chattian;;27.03;23.04
+1315404;occ;NA;NA;70222;Lyncina magnifica;NA;species;336813;Aquitanian;Burdigalian;23.04;15.98
+1315406;occ;NA;NA;74865;Lyncina miopropinqua;NA;species;336818;Aquitanian;;23.04;20.45
+1315407;occ;NA;NA;74865;Zonarina pinguis;NA;species;336819;Aquitanian;;23.04;20.45
+1315408;occ;NA;NA;90457;Lyncina eristicos;NA;species;342595;Aquitanian;;23.04;20.45
+1315409;occ;NA;NA;90457;Plaziatia subglobosa;NA;species;342193;Aquitanian;;23.04;20.45
+1315410;occ;NA;NA;90457;Zonarina aturensis;NA;species;341887;Aquitanian;;23.04;20.45
+1315411;occ;NA;NA;90457;Zonarina maynotensis;NA;species;342207;Aquitanian;;23.04;20.45
+1315412;occ;NA;NA;88795;Ransonia tarbelliana;NA;species;342288;Chattian;;27.03;23.04
+1315413;occ;NA;NA;88795;Prozonarina barcamorpha;NA;species;341895;Chattian;;27.03;23.04
+1315414;occ;NA;NA;88795;Zonarina abbessensis;NA;species;341783;Chattian;;27.03;23.04
+1315415;occ;NA;NA;88795;Plaziatia amandula;NA;species;341784;Chattian;;27.03;23.04
+1315416;occ;NA;NA;88795;Subepona herrerensis;NA;species;336825;Chattian;;27.03;23.04
+1315417;occ;NA;NA;88795;Luria (Tessellata) chattica;NA;species;342018;Chattian;;27.03;23.04
+1315513;occ;NA;NA;176546;Cypraea ohiroi;NA;species;336871;Tortonian;;11.63;7.246
+1315591;occ;NA;NA;176558;Cypraea ohiroi;NA;species;336871;Langhian;;15.98;13.82
+1315605;occ;NA;NA;176560;Cypraea ohiroi;NA;species;336871;Burdigalian;Langhian;20.45;13.82
+1316053;occ;NA;NA;176638;Archicypraea ancillaria;NA;species;336077;Bartonian;;41.03;37.71
+1316949;occ;NA;NA;152532;Notocypraea darraghi;NA;species;337362;Gelasian;;2.58;1.8
+1316950;occ;NA;NA;176463;Proadusta bitruncata;NA;species;337365;Rupelian;;33.9;27.03
+1316951;occ;NA;NA;176769;Eopustularia balinka;NA;species;337397;Bartonian;;41.03;37.71
+1316954;occ;NA;NA;176770;Eopustularia balinka;NA;species;337397;Lutetian;;48.07;41.03
+1316961;occ;NA;NA;176772;Austrocypraea goudeyana;NA;species;337410;Langhian;;15.98;13.82
+1317745;occ;NA;NA;176994;Palaeocypraea spirata;NA;species;334855;Danian;;66;61.66
+1317746;occ;NA;NA;176994;Palaeocypraea;NA;genus;10233;Danian;;66;61.66
+1317747;occ;NA;NA;176994;Bernaya (Protocypraea) globuliformis;NA;species;337758;Danian;;66;61.66
+1317913;occ;NA;NA;84915;Notadusta trelissickensis;NA;species;337807;Otaian;;21.7;18.7
+1320699;occ;NA;NA;177068;Subepona promeces;NA;species;339065;Bartonian;;41.03;37.71
+1320700;occ;NA;NA;177610;Subepona promeces;NA;species;339065;Bartonian;;41.03;37.71
+1321008;occ;NA;NA;177665;Archicypraea lioyi;NA;species;339117;Lutetian;;48.07;41.03
+1321009;occ;NA;NA;177665;Semicypraea koninckii;NA;species;339119;Lutetian;;48.07;41.03
+1321010;occ;NA;NA;177667;Semicypraea koninckii;NA;species;339119;Ypresian;;56;48.07
+1321011;occ;NA;NA;177665;Eopustularia moloni;NA;species;337379;Lutetian;;48.07;41.03
+1321013;occ;NA;NA;177665;Protoponda vinassai;NA;species;339151;Lutetian;;48.07;41.03
+1321031;occ;NA;NA;177670;Archicypraea superba;NA;species;339149;Lutetian;;48.07;41.03
+1321032;occ;NA;NA;177670;Eopustularia moloni;NA;species;337379;Lutetian;;48.07;41.03
+1321033;occ;NA;NA;177670;Protoponda vinassai;NA;species;339151;Lutetian;;48.07;41.03
+1321264;occ;NA;NA;177707;Semicypraea koninckii;NA;species;339119;Ypresian;;56;48.07
+1321271;occ;NA;NA;177708;Cypraeopsis (Cypraeopsis) aquensis;NA;species;339156;Chattian;;27.03;23.04
+1321272;occ;NA;NA;177708;Luria (Tessellata) chattica;NA;species;342018;Chattian;;27.03;23.04
+1321273;occ;NA;NA;177708;Ransonia coseli;NA;species;342577;Chattian;;27.03;23.04
+1321274;occ;NA;NA;177708;Ransonia tarbelliana;NA;species;342288;Chattian;;27.03;23.04
+1321275;occ;NA;NA;177708;Prozonarina barcamorpha;NA;species;341895;Chattian;;27.03;23.04
+1321276;occ;NA;NA;177708;Prozonarina regalis;NA;species;342491;Chattian;;27.03;23.04
+1321277;occ;NA;NA;177708;Plaziatia parasigmapertura;NA;species;342476;Chattian;;27.03;23.04
+1321278;occ;NA;NA;177708;Subepona herrerensis;NA;species;336825;Chattian;;27.03;23.04
+1321279;occ;NA;NA;177708;Praerosaria biacuta;NA;species;341973;Chattian;;27.03;23.04
+1321280;occ;NA;NA;177708;Praerosaria perlacea;NA;species;342796;Chattian;;27.03;23.04
+1321281;occ;NA;NA;177708;Praerosaria tabulata;NA;species;342295;Chattian;;27.03;23.04
+1321282;occ;NA;NA;177708;Nucleolaria bezoyensis;NA;species;341972;Chattian;;27.03;23.04
+1321285;occ;NA;NA;152697;Cypraeopsis (Cypraeopsis) aquensis;NA;species;339156;Chattian;;27.03;23.04
+1321286;occ;NA;NA;152689;Luria (Tessellata) cahuzaci;NA;species;341988;Chattian;;27.03;23.04
+1321287;occ;NA;NA;152689;Luria (Tessellata) castinea;NA;species;342011;Chattian;;27.03;23.04
+1321288;occ;NA;NA;152689;Luria (Tessellata) chattica;NA;species;342018;Chattian;;27.03;23.04
+1321289;occ;NA;NA;152689;Ransonia ferruginosa;NA;species;342622;Chattian;;27.03;23.04
+1321290;occ;NA;NA;152689;Ransonia gofasi;NA;species;342937;Chattian;;27.03;23.04
+1321291;occ;NA;NA;152689;Prozonarina haueriana;NA;species;342950;Chattian;;27.03;23.04
+1321292;occ;NA;NA;152689;Prozonarina regalis;NA;species;342491;Chattian;;27.03;23.04
+1321293;occ;NA;NA;152689;Plaziatia amandula;NA;species;341784;Chattian;;27.03;23.04
+1321294;occ;NA;NA;152689;Plaziatia estotiensis;NA;species;342599;Chattian;;27.03;23.04
+1321295;occ;NA;NA;152689;Plaziatia parasigmapertura;NA;species;342476;Chattian;;27.03;23.04
+1321296;occ;NA;NA;152689;Subepona herrerensis;NA;species;336825;Chattian;;27.03;23.04
+1321297;occ;NA;NA;152689;Praerosaria charlenae;NA;species;342017;Chattian;;27.03;23.04
+1321298;occ;NA;NA;152689;Praerosaria herosae;NA;species;342961;Chattian;;27.03;23.04
+1321299;occ;NA;NA;152689;Nucleolaria bezoyensis;NA;species;341972;Chattian;;27.03;23.04
+1321301;occ;NA;NA;177709;Cypraeopsis vandervlerki;NA;species;339159;Aquitanian;Burdigalian;23.04;15.98
+1322125;occ;NA;NA;177883;Afrocypraea chubbi;NA;species;339372;Santonian;;85.7;83.6
+1322126;occ;NA;NA;177670;Eotrivia faracii;NA;species;339375;Lutetian;;48.07;41.03
+1322127;occ;NA;NA;177665;Eotrivia faracii;NA;species;339375;Lutetian;;48.07;41.03
+1322128;occ;NA;NA;177670;Eotrivia palumbella;NA;species;339379;Lutetian;;48.07;41.03
+1322193;occ;NA;NA;70203;Chelycypraea (Miolyncina) subovum;NA;species;339392;Burdigalian;;20.45;15.98
+1322194;occ;NA;NA;177885;Miolyncina cocconii;NA;species;339394;Piacenzian;;3.6;2.58
+1322195;occ;NA;NA;177886;Miolyncina cocconii;NA;species;339394;Piacenzian;;3.6;2.58
+1322863;occ;NA;NA;171521;Gisortia tuberculosa;NA;species;162243;Ypresian;;56;48.07
+1322994;occ;NA;NA;123125;Schilderia semidenticulata;NA;species;342827;Badenian;;13.82;12.8
+1322995;occ;NA;NA;123125;Prozonarina brocchii;NA;species;339514;Badenian;;13.82;12.8
+1322996;occ;NA;NA;123125;Schilderia amygdalum;NA;species;340717;Badenian;;13.82;12.8
+1323107;occ;NA;NA;38823;Miolyncina conjungens;NA;species;342591;Badenian;;13.82;12.8
+1323108;occ;NA;NA;38823;Zonarina exglobosa;NA;species;340279;Badenian;;13.82;12.8
+1323109;occ;NA;NA;38823;Schilderia semidenticulata;NA;species;342827;Badenian;;13.82;12.8
+1323110;occ;NA;NA;38823;Schilderia taurovalis;NA;species;342275;Badenian;;13.82;12.8
+1323111;occ;NA;NA;38823;Prozonarina brocchii;NA;species;339514;Badenian;;13.82;12.8
+1323112;occ;NA;NA;38823;Schilderia amygdalum;NA;species;340717;Badenian;;13.82;12.8
+1323113;occ;NA;NA;38823;Schilderia amygdalum;NA;species;340717;Badenian;;13.82;12.8
+1323692;occ;NA;NA;171526;Eotrivia pedicularis;NA;species;339664;Lutetian;;48.07;41.03
+1323716;occ;NA;NA;178103;Eotrivia pedicularis;NA;species;339664;Bartonian;;41.03;37.71
+1323759;occ;NA;NA;70191;Lyncina peyroti;NA;species;342814;Burdigalian;;20.45;15.98
+1323761;occ;NA;NA;70191;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1323762;occ;NA;NA;70191;Prozonarina brocchii;NA;species;339514;Burdigalian;;20.45;15.98
+1323764;occ;NA;NA;70191;Fossacypraea eburnina;NA;species;339675;Burdigalian;;20.45;15.98
+1323859;occ;NA;NA;178108;Jousseaumea grateloupi;NA;species;342940;Burdigalian;;20.45;15.98
+1323860;occ;NA;NA;178108;Jousseaumea taurorotunda;NA;species;342285;Burdigalian;;20.45;15.98
+1323861;occ;NA;NA;178108;Trona lyncoides;NA;species;342281;Burdigalian;;20.45;15.98
+1323862;occ;NA;NA;178108;Schilderia amygdalum;NA;species;340717;Burdigalian;;20.45;15.98
+1323863;occ;NA;NA;178108;Prozonarina brocchii;NA;species;339514;Burdigalian;;20.45;15.98
+1323864;occ;NA;NA;178108;Schilderia decorticata;NA;species;342126;Burdigalian;;20.45;15.98
+1323865;occ;NA;NA;178108;Zonarina haueri;NA;species;342948;Burdigalian;;20.45;15.98
+1323866;occ;NA;NA;178108;Loxacypraea orbignyana;NA;species;340541;Burdigalian;;20.45;15.98
+1323867;occ;NA;NA;178108;Zonarina pinguis;NA;species;336819;Burdigalian;;20.45;15.98
+1323868;occ;NA;NA;178108;Zonarina subelongata;NA;species;342299;Burdigalian;;20.45;15.98
+1323869;occ;NA;NA;178108;Schilderia taurovalis;NA;species;342275;Burdigalian;;20.45;15.98
+1323870;occ;NA;NA;178108;Mandolina rhomboidalis;NA;species;340288;Burdigalian;;20.45;15.98
+1323871;occ;NA;NA;178108;Prozonarina fabagina;NA;species;114844;Burdigalian;;20.45;15.98
+1323872;occ;NA;NA;178108;Schilderia amygdalum;NA;species;340717;Burdigalian;;20.45;15.98
+1323873;occ;NA;NA;178108;Miolyncina prevostina;NA;species;342480;Burdigalian;;20.45;15.98
+1323874;occ;NA;NA;178108;Lyncina tumida;NA;species;340284;Burdigalian;;20.45;15.98
+1324462;occ;NA;NA;178110;Jousseaumea grateloupi;NA;species;342940;Burdigalian;;20.45;15.98
+1324463;occ;NA;NA;178110;Trona lyncoides;NA;species;342281;Burdigalian;;20.45;15.98
+1324464;occ;NA;NA;178110;Schilderia amygdalum;NA;species;340717;Burdigalian;;20.45;15.98
+1324465;occ;NA;NA;178110;Prozonarina brocchii;NA;species;339514;Burdigalian;;20.45;15.98
+1324466;occ;NA;NA;178110;Zonarina brogniarti;NA;species;341780;Burdigalian;;20.45;15.98
+1324467;occ;NA;NA;178110;Schilderia decorticata;NA;species;342126;Burdigalian;;20.45;15.98
+1324468;occ;NA;NA;178110;Zonarina annularia;NA;species;341811;Burdigalian;;20.45;15.98
+1324469;occ;NA;NA;178110;Zonarina pinguis;NA;species;336819;Burdigalian;;20.45;15.98
+1324470;occ;NA;NA;178110;Zonarina provincialis;NA;species;342199;Burdigalian;;20.45;15.98
+1324471;occ;NA;NA;178110;Zonarina subelongata;NA;species;342299;Burdigalian;;20.45;15.98
+1324472;occ;NA;NA;178110;Schilderia taurovalis;NA;species;342275;Burdigalian;;20.45;15.98
+1324473;occ;NA;NA;178110;Mandolina rhomboidalis;NA;species;340288;Burdigalian;;20.45;15.98
+1324474;occ;NA;NA;178110;Prozonarina fabagina;NA;species;114844;Burdigalian;;20.45;15.98
+1324475;occ;NA;NA;178110;Lyncina tumida;NA;species;340284;Burdigalian;;20.45;15.98
+1324709;occ;NA;NA;178111;Zonarina pinguis;NA;species;336819;Burdigalian;;20.45;15.98
+1324710;occ;NA;NA;178111;Schilderia taurovalis;NA;species;342275;Burdigalian;;20.45;15.98
+1324711;occ;NA;NA;178111;Mandolina rhomboidalis;NA;species;340288;Burdigalian;;20.45;15.98
+1324712;occ;NA;NA;178111;Prozonarina fabagina;NA;species;114844;Burdigalian;;20.45;15.98
+1324713;occ;NA;NA;178111;Schilderia amygdalum;NA;species;340717;Burdigalian;;20.45;15.98
+1324793;occ;NA;NA;178112;Zonarina haueri;NA;species;342948;Langhian;;15.98;13.82
+1324794;occ;NA;NA;178112;Prozonarina fabagina;NA;species;114844;Langhian;;15.98;13.82
+1324795;occ;NA;NA;178112;Schilderia amygdalum;NA;species;340717;Langhian;;15.98;13.82
+1324926;occ;NA;NA;178114;Trona lyncoides;NA;species;342281;Langhian;;15.98;13.82
+1324927;occ;NA;NA;178114;Prozonarina brocchii;NA;species;339514;Langhian;;15.98;13.82
+1324928;occ;NA;NA;178114;Schilderia taurovalis;NA;species;342275;Langhian;;15.98;13.82
+1324929;occ;NA;NA;178114;Mandolina rhomboidalis;NA;species;340288;Langhian;;15.98;13.82
+1324930;occ;NA;NA;178114;Fossacypraea extusdentata;NA;species;342606;Langhian;;15.98;13.82
+1325029;occ;NA;NA;178116;Prozonarina fabagina;NA;species;114844;Langhian;;15.98;13.82
+1325219;occ;NA;NA;178117;Schilderia utricolata;NA;species;340331;Piacenzian;;3.6;2.58
+1325587;occ;NA;NA;178119;Eratotrivia crenata;NA;species;337558;Lutetian;;48.07;41.03
+1325884;occ;NA;NA;178155;Eotrivia pedicularis;NA;species;339664;Bartonian;;41.03;37.71
+1325993;occ;NA;NA;178085;Schilderia columbaria;NA;species;342137;Lutetian;;48.07;41.03
+1325994;occ;NA;NA;178085;Schilderia decorticata;NA;species;342126;Lutetian;;48.07;41.03
+1325995;occ;NA;NA;178085;Zonaria dujardini;NA;species;342582;Lutetian;;48.07;41.03
+1326671;occ;NA;NA;178221;Zonaria porcellus;NA;species;164299;Zanclean;Piacenzian;5.333;2.58
+1327011;occ;NA;NA;178322;Mandolina pergibba;NA;species;340309;Langhian;;15.98;13.82
+1327353;occ;NA;NA;178456;Archicypraea ancillaria;NA;species;336077;Bartonian;;41.03;37.71
+1327378;occ;NA;NA;178457;Zonaria porcellus;NA;species;164299;Gelasian;;2.58;1.8
+1327379;occ;NA;NA;178457;Schilderia longiscata;NA;species;340329;Gelasian;;2.58;1.8
+1327380;occ;NA;NA;178457;Schilderia utricolata;NA;species;340331;Gelasian;;2.58;1.8
+1327553;occ;NA;NA;178468;Schilderia amygdalum;NA;species;340717;Langhian;;15.98;13.82
+1327586;occ;NA;NA;178265;Schilderia andegavensis;NA;species;340352;Messinian;;7.246;5.333
+1327587;occ;NA;NA;178470;Schilderia lauriatae;NA;species;340354;Messinian;;7.246;5.333
+1327588;occ;NA;NA;178470;Schilderia veronicata;NA;species;342829;Messinian;;7.246;5.333
+1327589;occ;NA;NA;178470;Schilderia brebioni;NA;species;341982;Messinian;;7.246;5.333
+1327590;occ;NA;NA;178470;Schilderia fasciolaria;NA;species;342610;Messinian;;7.246;5.333
+1327591;occ;NA;NA;178470;Schilderia incognita;NA;species;342830;Messinian;;7.246;5.333
+1328104;occ;NA;NA;70191;Loxacypraea orbignyana;NA;species;340541;Burdigalian;;20.45;15.98
+1328105;occ;NA;NA;70203;Loxacypraea plumbea;NA;species;340565;Burdigalian;;20.45;15.98
+1328191;occ;NA;NA;178522;Prozonarina brocchii;NA;species;339514;Langhian;;15.98;13.82
+1328193;occ;NA;NA;38823;Zonarina brogniarti;NA;species;341780;Badenian;;13.82;12.8
+1328194;occ;NA;NA;38823;Zonarina annularia;NA;species;341811;Badenian;;13.82;12.8
+1328195;occ;32307;NA;90456;Zonarina abbessensis;NA;species;341783;Aquitanian;;23.04;20.45
+1328242;occ;NA;NA;74868;Mandolina rhomboidalis;NA;species;340288;Burdigalian;;20.45;15.98
+1328247;occ;NA;NA;178690;Gisortia clarki;NA;species;162241;Ypresian;;56;48.07
+1328401;occ;NA;NA;178718;Gisortia clarki;NA;species;162241;Ypresian;;56;48.07
+1328409;occ;NA;NA;178719;Gisortia clarki;NA;species;162241;Ypresian;;56;48.07
+1328414;occ;41334;NA;178720;Gisortia;NA;genus;9895;Ypresian;;56;48.07
+1328687;occ;NA;NA;178778;Gisortia tuberculosa;NA;species;162243;Ypresian;;56;48.07
+1328735;occ;NA;NA;86305;Schilderia longiscata;NA;species;340329;Zanclean;;5.333;3.6
+1328736;occ;NA;NA;86305;Schilderia utricolata;NA;species;340331;Zanclean;;5.333;3.6
+1328871;occ;NA;NA;178810;Schilderia flavicula;NA;species;341088;Zanclean;;5.333;3.6
+1329572;occ;NA;NA;178917;Schilderia utricolata;NA;species;340331;Gelasian;;2.58;1.8
+1329581;occ;NA;NA;178918;Schilderia flavicula;NA;species;341088;Gelasian;;2.58;1.8
+1329582;occ;NA;NA;178918;Schilderia utricolata;NA;species;340331;Gelasian;;2.58;1.8
+1329587;occ;NA;NA;178920;Schilderia utricolata;NA;species;340331;Gelasian;;2.58;1.8
+1329606;occ;NA;NA;178924;Schilderia flavicula;NA;species;341088;Calabrian;;1.8;0.774
+1329621;occ;NA;NA;178931;Schilderia utricolata;NA;species;340331;Gelasian;;2.58;1.8
+1329637;occ;NA;NA;74929;Schilderia utricolata;NA;species;340331;Piacenzian;;3.6;2.58
+1329660;occ;NA;NA;71157;Schilderia utricolata;NA;species;340331;Piacenzian;;3.6;2.58
+1329685;occ;NA;NA;178955;Schilderia flavicula;NA;species;341088;Calabrian;;1.8;0.774
+1329686;occ;NA;NA;178955;Schilderia utricolata;NA;species;340331;Calabrian;;1.8;0.774
+1329777;occ;NA;NA;65246;Loxacypraea colligens;NA;species;340552;Burdigalian;;20.45;15.98
+1329815;occ;NA;NA;179026;Palaeocypraea (Palaeocypraea) korycanensis;NA;species;335059;Late Cenomanian;;100.5;93.9
+1329816;occ;NA;NA;179027;Palaeocypraea (Palaeocypraea) korycanensis;NA;species;335059;Late Cenomanian;;100.5;93.9
+1329824;occ;NA;NA;179034;Bernaya (Protocypraea) cunliffei;NA;species;314277;Campanian;;83.6;72.2
+1330015;occ;NA;NA;179073;Palaeocypraea suciensis;NA;species;335071;Late Campanian;;83.6;72.2
+1330174;occ;NA;NA;179034;Bernaya (Protocypraea) veraghoorensis;NA;species;335101;Campanian;;83.6;72.2
+1330196;occ;NA;NA;179086;Barycypraea humerosa;NA;species;113707;Burdigalian;;20.45;15.98
+1330197;occ;NA;NA;179086;Erronea (Gratiadusta) nasuta;NA;species;113705;Burdigalian;;20.45;15.98
+1330198;occ;NA;NA;179086;Callistocypraea (Miolyncina) prunum;NA;species;113704;Burdigalian;;20.45;15.98
+1330236;occ;NA;NA;179087;Propustularia gurabonis;NA;species;249714;Messinian;Zanclean;7.246;3.6
+1330237;occ;NA;NA;179088;Zonaria heilprinii;NA;species;249760;Burdigalian;;20.45;15.98
+1330241;occ;NA;NA;179091;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1330287;occ;NA;NA;179110;Megalocypraea thomasi;NA;species;162245;Lutetian;;48.07;41.03
+1330313;occ;NA;NA;179122;Zonaria praelatior;NA;species;249767;Aquitanian;;23.04;20.45
+1330340;occ;NA;NA;179128;Eotrivia (Eotrivia) bouryi;NA;species;337562;Bartonian;;41.03;37.71
+1330346;occ;NA;NA;78617;Cypraeacites persona;NA;species;339784;Priabonian;;37.71;33.9
+1330347;occ;NA;NA;177886;Zonaria porcellus;NA;species;164299;Piacenzian;;3.6;2.58
+1330348;occ;NA;NA;179129;Neobernaya porcellus;NA;species;339396;Piacenzian;;3.6;2.58
+1330349;occ;NA;NA;179129;Miolyncina cocconii;NA;species;339394;Piacenzian;;3.6;2.58
+1330351;occ;NA;NA;122893;Eopustularia bartonensis;NA;species;335377;Lutetian;Bartonian;48.07;37.71
+1330353;occ;NA;NA;179130;Eotrivia pedicularis;NA;species;339664;Bartonian;;41.03;37.71
+1330368;occ;NA;NA;179130;Bernaya (Bernaya) obesa;NA;species;335373;Bartonian;;41.03;37.71
+1330423;occ;NA;NA;179131;Luria mariaelisabethae;NA;species;249748;Burdigalian;;20.45;15.98
+1330426;occ;NA;NA;179132;Eopustularia brackleshamensis;NA;species;337369;Late Eocene;;37.71;33.9
+1330438;occ;NA;NA;179133;Macrocypraea anguillana;NA;species;109239;Burdigalian;Serravallian;20.45;11.63
+1330449;occ;NA;NA;179134;Macrocypraea anguillana;NA;species;109239;Burdigalian;Serravallian;20.45;11.63
+1330580;occ;NA;NA;179144;Akleistostoma pilsbryi;NA;species;341755;Zanclean;;5.333;3.6
+1330588;occ;NA;NA;74865;Prozonarina brocchii;NA;species;339514;Aquitanian;;23.04;20.45
+1330884;occ;NA;NA;51405;Notocypraea eryma;NA;species;342039;Piacenzian;Gelasian;3.6;1.8
+1330885;occ;NA;NA;51405;Umbilia (Umbilia) hesitata;NA;species;84140;Piacenzian;Gelasian;3.6;1.8
+1330888;occ;NA;NA;179129;Schilderia garonettii;NA;species;342066;Piacenzian;;3.6;2.58
+1331671;occ;NA;NA;178041;Archicypraea prisca;NA;species;342573;Thanetian;;59.24;56
+1331696;occ;32410;NA;179337;Akleistostoma hughesi;NA;species;342629;Late Pliocene;;3.6;2.58
+1331781;occ;NA;NA;179354;Cypraeorbis sphaeroides;NA;species;342312;Rupelian;;33.9;27.03
+1332104;occ;NA;NA;179483;Afrozoila zietsmani;NA;species;342899;Pliocene;;5.333;2.58
+1332110;occ;NA;NA;179484;Afrozoila zietsmani;NA;species;342899;Pliocene;;5.333;2.58
+1332130;occ;NA;NA;179485;Afrozoila zietsmani;NA;species;342899;Pliocene;;5.333;2.58
+1332146;occ;NA;NA;179486;Afrozoila zietsmani;NA;species;342899;Pliocene;;5.333;2.58
+1332162;occ;NA;NA;179487;Afrozoila zietsmani;NA;species;342899;Pliocene;;5.333;2.58
+1332231;occ;NA;NA;179499;Monetaria moneta;NA;species;60041;Early Miocene;;23.04;15.98
+1332232;occ;NA;NA;179499;Erosaria labrolineata;NA;species;343013;Early Miocene;;23.04;15.98
+1332233;occ;NA;NA;179499;Cypraea (Erosaria) helvola;NA;species;60034;Early Miocene;;23.04;15.98
+1332604;occ;NA;NA;179578;Siphocypraea posei;NA;species;343167;Burdigalian;;20.45;15.98
+1332665;occ;NA;NA;179581;Schilderia columbaria;NA;species;342137;Langhian;;15.98;13.82
+1332666;occ;NA;NA;179581;Schilderia decorticata;NA;species;342126;Langhian;;15.98;13.82
+1332667;occ;NA;NA;179581;Zonaria dujardini;NA;species;342582;Langhian;;15.98;13.82
+1332668;occ;NA;NA;179581;Prozonarina maxima;NA;species;105975;Langhian;;15.98;13.82
+1332759;occ;NA;NA;179591;Akleistostoma erici;NA;species;343178;Late Pliocene;;3.6;2.58
+1332873;occ;NA;NA;179602;Notocypraea jonesiana;NA;species;343286;Middle Miocene;;15.98;11.63
+1332947;occ;32456;NA;155784;Zonarina liviae;NA;species;343293;Badenian;;13.82;12.8
+1332958;occ;NA;NA;179615;Siphocypraea merriami;NA;species;341299;Piacenzian;;3.6;2.58
+1333099;occ;NA;NA;179626;Barycypraea murisimilis;NA;species;127321;Serravallian;;13.82;11.63
+1333114;occ;NA;NA;179626;Barycypraea caputviperae;NA;species;187664;Serravallian;;13.82;11.63
+1333130;occ;NA;NA;179627;Barycypraea murisimilis;NA;species;127321;Late Miocene;;11.63;5.333
+1333172;occ;NA;NA;45344;Eclogavena quadrimaculata;NA;species;342498;Early Pliocene;;5.333;3.6
+1333173;occ;NA;NA;45344;Afrozoila gendinganensis;NA;species;342641;Early Pliocene;;5.333;3.6
+1333174;occ;NA;NA;45344;Erronea (Adusta) sondeiana;NA;species;342838;Early Pliocene;;5.333;3.6
+1333175;occ;NA;NA;45344;Erosaria (Erosaria) pliostaphylaea;NA;species;342819;Early Pliocene;;5.333;3.6
+1333198;occ;NA;NA;179628;Pustularia (Pustularia) americana;NA;species;337385;Early Miocene;;23.04;15.98
+1333207;occ;NA;NA;179631;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333208;occ;NA;NA;179631;Loxacypraea apalachicolae;NA;species;343352;Burdigalian;;20.45;15.98
+1333216;occ;NA;NA;179635;Muracypraea andersoni;NA;species;167376;Middle Miocene;;15.98;11.63
+1333217;occ;NA;NA;179635;Muracypraea tuberae;NA;species;167377;Middle Miocene;;15.98;11.63
+1333219;occ;NA;NA;65246;Loxacypraea genei;NA;species;340562;Burdigalian;;20.45;15.98
+1333220;occ;NA;NA;176769;Subepona antiqua;NA;species;343356;Bartonian;;41.03;37.71
+1333221;occ;NA;NA;179132;Eopustularia gregorioi;NA;species;337378;Late Eocene;;37.71;33.9
+1333222;occ;NA;NA;176769;Eopustularia gregorioi;NA;species;337378;Bartonian;;41.03;37.71
+1333236;occ;NA;NA;179642;Muracypraea projecta;NA;species;167378;Serravallian;;13.82;11.63
+1333238;occ;NA;NA;179643;Muracypraea grahami;NA;species;167379;Zanclean;;5.333;3.6
+1333240;occ;NA;NA;35040;Palaeocypraea spirata;NA;species;334855;Danian;;66;61.66
+1333241;occ;NA;NA;137438;Palaeocypraea spirata;NA;species;334855;Danian;;66;61.66
+1333244;occ;NA;NA;137438;Palaeocypraea suecica;NA;species;335066;Danian;;66;61.66
+1333246;occ;NA;NA;137438;Bernaya (Protocypraea) globuliformis;NA;species;337758;Danian;;66;61.66
+1333248;occ;NA;NA;137438;Palaeocypraea (Palaeocypraea) faxensis;NA;species;343406;Danian;;66;61.66
+1333282;occ;NA;NA;179647;Palaeocypraea suecica;NA;species;335066;Danian;;66;61.66
+1333283;occ;NA;NA;179647;Palaeocypraea spirata;NA;species;334855;Danian;;66;61.66
+1333309;occ;NA;NA;179652;Palaeocypraea spirata;NA;species;334855;Danian;;66;61.66
+1333347;occ;NA;NA;89240;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333348;occ;NA;NA;89240;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333349;occ;NA;NA;179661;Cypraeacites inflatus;NA;species;339171;Rupelian;;33.9;27.03
+1333350;occ;NA;NA;71242;Austrocypraea contusa;NA;species;337405;Middle Miocene;;15.98;11.63
+1333353;occ;NA;NA;123125;Fossacypraea hieroglyphica;NA;species;336401;Badenian;;13.82;12.8
+1333440;occ;NA;NA;70203;Jousseaumea sublyncoides;NA;species;342283;Burdigalian;;20.45;15.98
+1333471;occ;NA;NA;68325;Pseudozonaria frassinettii;NA;species;164294;Tortonian;;11.63;7.246
+1333506;occ;NA;NA;92502;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333507;occ;NA;NA;92501;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333508;occ;NA;NA;92457;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333509;occ;NA;NA;92457;Zonaria spurcoides;NA;species;109032;Burdigalian;;20.45;15.98
+1333511;occ;NA;NA;92458;Loxacypraea emilyae;NA;species;249726;Burdigalian;;20.45;15.98
+1333512;occ;NA;NA;92458;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333513;occ;NA;NA;92458;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333514;occ;NA;NA;92458;Zonaria spurcoides;NA;species;109032;Burdigalian;;20.45;15.98
+1333517;occ;NA;NA;92556;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333518;occ;NA;NA;89575;Luria dominicensis;NA;species;109034;Burdigalian;;20.45;15.98
+1333519;occ;NA;NA;89575;Zonaria theresae;NA;species;249753;Burdigalian;;20.45;15.98
+1333520;occ;NA;NA;89575;Zonaria heilprinii;NA;species;249760;Burdigalian;;20.45;15.98
+1333521;occ;NA;NA;89575;Zonaria shirleyae;NA;species;249763;Burdigalian;;20.45;15.98
+1333524;occ;NA;NA;89576;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333525;occ;NA;NA;89576;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333526;occ;NA;NA;89576;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333527;occ;NA;NA;89576;Zonaria theresae;NA;species;249753;Burdigalian;;20.45;15.98
+1333528;occ;NA;NA;89576;Zonaria heilprinii;NA;species;249760;Burdigalian;;20.45;15.98
+1333531;occ;NA;NA;92565;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333532;occ;NA;NA;179694;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333533;occ;NA;NA;179694;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333534;occ;NA;NA;179694;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333535;occ;NA;NA;179695;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333536;occ;NA;NA;92505;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333537;occ;NA;NA;92505;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333538;occ;NA;NA;92460;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333539;occ;NA;NA;92460;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333543;occ;NA;NA;92549;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333544;occ;NA;NA;92549;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333545;occ;NA;NA;179696;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333546;occ;NA;NA;179696;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333547;occ;NA;NA;179696;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1333548;occ;NA;NA;179696;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333549;occ;NA;NA;179696;Zonaria tumulus;NA;species;249757;Burdigalian;;20.45;15.98
+1333551;occ;NA;NA;92550;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333552;occ;NA;NA;92550;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333553;occ;NA;NA;92550;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1333554;occ;NA;NA;92550;Luria campbelliana;NA;species;249750;Burdigalian;;20.45;15.98
+1333556;occ;NA;NA;92461;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333557;occ;NA;NA;92461;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333558;occ;NA;NA;92461;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333559;occ;NA;NA;92551;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333560;occ;NA;NA;92551;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333561;occ;NA;NA;92551;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333562;occ;NA;NA;92551;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1333563;occ;NA;NA;92551;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333565;occ;NA;NA;92553;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333566;occ;NA;NA;92379;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333567;occ;NA;NA;92379;Zonaria tumulus;NA;species;249757;Burdigalian;;20.45;15.98
+1333568;occ;NA;NA;92379;Zonaria spurcoides;NA;species;109032;Burdigalian;;20.45;15.98
+1333569;occ;NA;NA;92379;Zonaria shirleyae;NA;species;249763;Burdigalian;;20.45;15.98
+1333570;occ;NA;NA;92554;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333571;occ;NA;NA;92554;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333572;occ;NA;NA;89574;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333573;occ;NA;NA;89574;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333575;occ;NA;NA;91536;Cypraeorbis willcoxi;NA;species;249727;Burdigalian;;20.45;15.98
+1333576;occ;NA;NA;91536;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333577;occ;NA;NA;91536;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1333578;occ;NA;NA;92562;Talparia (Talparia) mariaelisabethae;NA;species;343480;Burdigalian;;20.45;15.98
+1333579;occ;NA;NA;92563;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333580;occ;NA;NA;92564;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333581;occ;NA;NA;179122;Talparia (Talparia) mariaelisabethae;NA;species;343480;Aquitanian;;23.04;20.45
+1333584;occ;NA;NA;74962;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333585;occ;NA;NA;74962;Luria campbelliana;NA;species;249750;Burdigalian;;20.45;15.98
+1333586;occ;NA;NA;74962;Zonaria heilprinii;NA;species;249760;Burdigalian;;20.45;15.98
+1333587;occ;NA;NA;179697;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333588;occ;NA;NA;41760;Cypraeorbis willcoxi ballista;NA;subspecies;249730;Burdigalian;;20.45;15.98
+1333589;occ;NA;NA;41760;Cypraeorbis arlettae;NA;species;249740;Burdigalian;;20.45;15.98
+1333592;occ;NA;NA;42443;Loxacypraea chilona;NA;species;187671;Burdigalian;;20.45;15.98
+1333644;occ;NA;NA;179713;Pustularia lodanensis;NA;species;337391;Langhian;;15.98;13.82
+1333645;occ;NA;NA;179713;Erronea (Adusta) proxima;NA;species;343961;Langhian;;15.98;13.82
+1333652;occ;32478;NA;179718;Archicypraea bellardiana;NA;species;341923;Ypresian;;56;48.07
+1333919;occ;NA;NA;74868;Jousseaumea diluviana;NA;species;114854;Burdigalian;;20.45;15.98
+1333920;occ;NA;NA;74868;Jousseaumea grateloupi;NA;species;342940;Burdigalian;;20.45;15.98
+1333921;occ;NA;NA;74868;Chelycypraea (Miolyncina) subovum;NA;species;339392;Burdigalian;;20.45;15.98
+1333922;occ;NA;NA;74868;Lyncina tumida;NA;species;340284;Burdigalian;;20.45;15.98
+1333923;occ;NA;NA;74868;Trona leporina;NA;species;249742;Burdigalian;;20.45;15.98
+1333924;occ;NA;NA;74868;Trona subporcellus;NA;species;344221;Burdigalian;;20.45;15.98
+1333925;occ;NA;NA;74868;Schilderia columbaria;NA;species;342137;Burdigalian;;20.45;15.98
+1333926;occ;NA;NA;74868;Fossacypraea apiceproducta;NA;species;336396;Burdigalian;;20.45;15.98
+1333927;occ;NA;NA;74868;Fossacypraea eburnina;NA;species;339675;Burdigalian;;20.45;15.98
+1334020;occ;NA;NA;177068;Eotrivia baronensis;NA;species;344295;Bartonian;;41.03;37.71
+1334021;occ;NA;NA;179763;Eotrivia procera;NA;species;344291;Priabonian;;37.71;33.9
+1334022;occ;NA;NA;179763;Eotrivia faracii;NA;species;339375;Priabonian;;37.71;33.9
+1334024;occ;NA;NA;178049;Eotrivia recluzi;NA;species;344297;Bartonian;;41.03;37.71
+1334025;occ;NA;NA;122893;Eotrivia recluzi;NA;species;344297;Lutetian;Bartonian;48.07;37.71
+1334055;occ;NA;NA;179776;Prozonarina fabagina;NA;species;114844;Tortonian;;11.63;7.246
+1334080;occ;NA;NA;179777;Schilderia amygdalum;NA;species;340717;Tortonian;;11.63;7.246
+1334117;occ;NA;NA;147003;Trona apenninensis;NA;species;344313;Rupelian;;33.9;27.03
+1334118;occ;NA;NA;179787;Trona carcarensis;NA;species;344315;Priabonian;;37.71;33.9
+1334119;occ;NA;NA;179787;Lyncina praecedens;NA;species;344320;Priabonian;;37.71;33.9
+1334120;occ;NA;NA;147003;Cypraeorbis exsplendens;NA;species;344330;Rupelian;;33.9;27.03
+1334121;occ;NA;NA;179786;Cypraeorbis exsplendens;NA;species;344330;Priabonian;;37.71;33.9
+1334123;occ;NA;NA;179788;Cypraeorbis exsplendens;NA;species;344330;Priabonian;;37.71;33.9
+1334149;occ;NA;NA;179803;Palaeocypraea (Palaeocypraea) titonica;NA;species;344371;Tithonian;;149.2;143.1
+1334150;occ;NA;NA;179803;Bernaya (Bernaya) gemmellaroi;NA;species;344340;Tithonian;;149.2;143.1
+1334269;occ;NA;NA;179815;Bernaya (Bernaya) azevedoi;NA;species;344375;Campanian;;83.6;72.2
+1334272;occ;NA;NA;87462;Bernaya (Bernaya) depereti;NA;species;344380;Late Turonian;;93.9;89.8
+1334279;occ;NA;NA;179817;Palaeocypraea (Palaeocypraea) primigenia;NA;species;344382;Late Barremian;;125.77;121.4
+1334280;occ;32496;NA;179817;Bernaya (Protocypraea) sayni;NA;species;344384;Late Barremian;;125.77;121.4
+1337175;occ;NA;NA;38823;Schilderia amygdalum;NA;species;340717;Badenian;;13.82;12.8
+1338200;occ;NA;NA;180639;Palaeocypraea (Palaeocypraea) anomala;NA;species;345504;Campanian;;83.6;72.2
+1338201;occ;NA;NA;177883;Palaeocypraea (Palaeocypraea) caffrarica;NA;species;345509;Santonian;;85.7;83.6
+1338202;occ;NA;NA;180640;Palaeocypraea (Palaeocypraea) deserti;NA;species;345512;Early Maastrichtian;;72.2;66
+1338203;occ;32620;NA;180641;Palaeocypraea (Palaeocypraea) desertorum;NA;species;345516;Late Maastrichtian;;72.2;66
+1338204;occ;32621;NA;180641;Palaeocypraea (Palaeocypraea) desertorum;NA;species;345516;Late Maastrichtian;;72.2;66
+1338205;occ;NA;NA;179817;Palaeocypraea (Palaeocypraea) drumensis;NA;species;345517;Late Barremian;;125.77;121.4
+1338206;occ;NA;NA;85267;Palaeocypraea (Palaeocypraea) limburgensis;NA;species;345519;Late Maastrichtian;;72.2;66
+1338207;occ;NA;NA;85267;Palaeocypraea (Palaeocypraea) maestrichtensis;NA;species;345523;Late Maastrichtian;;72.2;66
+1338271;occ;NA;NA;180658;Palaeocypraea (Palaeocypraea) paronai;NA;species;345591;Early Cenomanian;;100.5;93.9
+1338274;occ;NA;NA;180659;Palaeocypraea (Palaeocypraea) vayssierei;NA;species;345602;Turonian;;93.9;89.8
+1338275;occ;NA;NA;41428;Palaeocypraea (Pustulariopsis) globulina;NA;species;345606;Late Maastrichtian;;72.2;66
+1338276;occ;NA;NA;180658;Palaeocypraea (Pustulariopsis) pustulifera;NA;species;336504;Early Cenomanian;;100.5;93.9
+1338277;occ;NA;NA;180658;Palaeocypraea (Pustulariopsis) pustulifera;NA;species;336504;Early Cenomanian;;100.5;93.9
+1338278;occ;NA;NA;180660;Bernaya (Bernaya) baluchistanensis;NA;species;345613;Early Maastrichtian;;72.2;66
+1338279;occ;NA;NA;180661;Bernaya (Bernaya) azevedoi;NA;species;344375;Campanian;;83.6;72.2
+1338285;occ;NA;NA;180662;Bernaya (Bernaya) burlingtonensis;NA;species;335090;Middle Campanian;Late Campanian;83.6;72.2
+1338286;occ;32628;NA;180663;Bernaya (Bernaya) coromandelica;NA;species;345622;Coniacian;;89.8;85.7
+1354490;occ;NA;NA;183747;Gisortia gigantea;NA;species;114125;Ypresian;;56;48.07
+1354491;occ;NA;NA;183747;Gisortia (Vicetia) hantkeni;NA;species;342657;Ypresian;;56;48.07
+1354499;occ;NA;NA;183750;Lyncina amygdalina;NA;species;341786;Ypresian;;56;48.07
+1354500;occ;NA;NA;183750;Semicypraea koninckii;NA;species;339119;Ypresian;;56;48.07
+1354501;occ;NA;NA;183750;Gisortia gigantea;NA;species;114125;Ypresian;;56;48.07
+1354502;occ;NA;NA;183750;Gisortia (Vicetia) hantkeni;NA;species;342657;Ypresian;;56;48.07
+1354503;occ;NA;NA;183750;Eopustularia moloni;NA;species;337379;Ypresian;;56;48.07
+1354508;occ;41333;NA;183752;Bernaya kaylinae;NA;species;479100;Ypresian;Lutetian;56;41.03
+1354510;occ;NA;NA;183754;Gisortia (Vicetia) hantkeni;NA;species;342657;Ypresian;;56;48.07
+1354568;occ;NA;NA;183787;Gisortia tuberculosa;NA;species;162243;Ypresian;;56;48.07
+1355256;occ;NA;NA;183961;Callistocypraea (Miolyncina) soriensis;NA;species;342208;Lutetian;;48.07;41.03
+1355257;occ;NA;NA;183948;Gisortia murchisoni;NA;species;114122;Ypresian;;56;48.07
+1355258;occ;NA;NA;184031;Gisortia murchisoni;NA;species;114122;Lutetian;;48.07;41.03
+1355259;occ;NA;NA;183837;Gisortia murchisoni;NA;species;114122;Ypresian;;56;48.07
+1355260;occ;NA;NA;183839;Gisortia murchisoni;NA;species;114122;Ypresian;;56;48.07
+1355261;occ;NA;NA;184032;Vicetia sowerbyi;NA;species;342467;Lutetian;;48.07;41.03
+1355262;occ;NA;NA;183923;Vicetia sowerbyi;NA;species;342467;Lutetian;;48.07;41.03
+1355889;occ;NA;NA;184107;Cypraea pediculus;NA;species;349981;Lutetian;;48.07;41.03
+1355891;occ;NA;NA;184107;Cypraea sulcosa;NA;species;349982;Lutetian;;48.07;41.03
+1374120;occ;NA;NA;187583;Cypraeidae;NA;family;60047;Tortonian;;11.63;7.246
+1384439;occ;NA;NA;189840;Palaeocypraea (Palaeocypraea) tithonica;NA;species;344338;Tithonian;;149.2;143.1
+1390150;occ;NA;NA;152605;Propustularia;NA;genus;10318;Badenian;;13.82;12.8
+1390168;occ;NA;NA;179230;Propustularia;NA;genus;10318;Badenian;;13.82;12.8
+1390174;occ;NA;NA;191166;Eopustularia balinka;NA;species;337397;Lutetian;;48.07;41.03
+1390176;occ;NA;NA;172909;Eopustularia balinka;NA;species;337397;Lutetian;Bartonian;48.07;37.71
+1392420;occ;NA;NA;191624;Cypraeidae;NA;family;60047;Serravallian;Tortonian;13.82;7.246
+1397954;occ;NA;NA;192719;Erosaria;NA;genus;9825;Late Pleistocene;;0.129;0.0117
+1397955;occ;NA;NA;192719;Erronea caurica;NA;species;60027;Late Pleistocene;;0.129;0.0117
+1397992;occ;NA;NA;192720;Erosaria;NA;genus;9825;Late Pleistocene;;0.129;0.0117
+1397993;occ;NA;NA;192720;Erronea caurica;NA;species;60027;Late Pleistocene;;0.129;0.0117
+1397994;occ;NA;NA;192720;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+1397995;occ;NA;NA;192720;Mauritia grayana;NA;species;342944;Late Pleistocene;;0.129;0.0117
+1397996;occ;NA;NA;192720;Cypraea pantherina;NA;species;336507;Late Pleistocene;;0.129;0.0117
+1397997;occ;NA;NA;192720;Erosaria spurca;NA;species;109031;Late Pleistocene;;0.129;0.0117
+1397999;occ;NA;NA;192720;Cypraea (Lyncina) vitellus;NA;species;60046;Late Pleistocene;;0.129;0.0117
+1398001;occ;NA;NA;192720;Talparia talpa;NA;species;342289;Late Pleistocene;;0.129;0.0117
+1405001;occ;NA;NA;194003;Lyncina carneola;NA;species;60026;Late Pleistocene;;0.129;0.0117
+1405002;occ;NA;NA;194003;Mauritia maculifera;NA;species;147498;Late Pleistocene;;0.129;0.0117
+1405003;occ;NA;NA;194003;Mauritia scurra;NA;species;342823;Late Pleistocene;;0.129;0.0117
+1405004;occ;NA;NA;194003;Monetaria moneta;NA;species;60041;Late Pleistocene;;0.129;0.0117
+1405005;occ;NA;NA;194003;Naria erosa;NA;species;60031;Late Pleistocene;;0.129;0.0117
+1407287;occ;NA;NA;194405;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1408541;occ;NA;NA;194399;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1408550;occ;NA;NA;194406;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1408570;occ;NA;NA;194407;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1408662;occ;NA;NA;194400;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1408678;occ;NA;NA;194546;Erosaria cernica;NA;species;342012;Late Pleistocene;;0.129;0.0117
+1427240;occ;NA;NA;198537;Cypraeidae;NA;family;60047;Pleistocene;;2.58;0.0117
+1427401;occ;NA;NA;198563;Cypraeidae;NA;family;60047;Pleistocene;;2.58;0.0117
+1434442;occ;NA;NA;86814;Bernaya (Protocypraea) argonautica;NA;species;335097;Turonian;;93.9;89.8
+1434637;occ;41331;NA;8012;Subepona leahae;NA;species;479093;Lutetian;;48.07;41.03
+1436454;occ;NA;NA;200398;Neobernaya spadicea;NA;species;335362;Late Pliocene;;3.6;2.58
+1440519;occ;NA;NA;200899;Cypraea;NA;genus;9724;Eocene;;56;33.9
+1442502;occ;NA;NA;201414;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+1452415;occ;NA;NA;202495;Neobernaya spadicea;NA;species;335362;Early Pleistocene;;2.58;0.774
+1452454;occ;NA;NA;202492;Neobernaya spadicea;NA;species;335362;Middle Pleistocene;;0.774;0.129
+1455989;occ;NA;NA;203113;Neobernaya spadicea;NA;species;335362;Middle Pleistocene;;0.774;0.129
+1456121;occ;NA;NA;203114;Neobernaya spadicea;NA;species;335362;Middle Pleistocene;;0.774;0.129
+1457497;occ;NA;NA;176279;Umbilia (Umbilia) platyrhyncha;NA;species;334867;Chattian;;27.03;23.04
+1469788;occ;NA;NA;205267;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1469815;occ;NA;NA;205271;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1470966;occ;NA;NA;205411;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1471610;occ;NA;NA;205410;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1472833;occ;NA;NA;205446;Cypraea;NA;genus;9724;Maastrichtian;;72.2;66
+1472995;occ;NA;NA;205421;Cypraea;NA;genus;9724;Lutetian;;48.07;41.03
+1472996;occ;NA;NA;205421;Cypraea;NA;genus;9724;Lutetian;;48.07;41.03
+1473214;occ;NA;NA;205430;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1473694;occ;NA;NA;205438;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1473896;occ;NA;NA;205440;Cypraea;NA;genus;9724;Lutetian;;48.07;41.03
+1473897;occ;NA;NA;205440;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1474331;occ;NA;NA;205816;Zoila viathomsoni;NA;species;335722;Priabonian;;37.71;33.9
+1474659;occ;NA;NA;205433;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1475367;occ;NA;NA;205489;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1476048;occ;NA;NA;205466;Cypraea;NA;genus;9724;Danian;;66;61.66
+1476619;occ;NA;NA;205422;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1476620;occ;NA;NA;205422;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1477899;occ;NA;NA;205479;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1478457;occ;NA;NA;205480;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1478458;occ;NA;NA;205480;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1478666;occ;NA;NA;205481;Cypraeorbis;NA;genus;9730;Bartonian;;41.03;37.71
+1479278;occ;NA;NA;205485;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1480215;occ;NA;NA;205499;Cypraea;NA;genus;9724;Selandian;;61.66;59.24
+1480285;occ;NA;NA;205501;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1480376;occ;NA;NA;205503;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1481059;occ;NA;NA;205515;Cypraea;NA;genus;9724;Bartonian;;41.03;37.71
+1481167;occ;NA;NA;205520;Cypraeorbis bulbus;NA;species;335387;Lutetian;;48.07;41.03
+1481944;occ;NA;NA;205539;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1482811;occ;NA;NA;205527;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1483287;occ;NA;NA;205532;Cypraea;NA;genus;9724;Lutetian;;48.07;41.03
+1483459;occ;NA;NA;205533;Cypraeorbis bulbus;NA;species;335387;Lutetian;;48.07;41.03
+1483715;occ;NA;NA;205537;Cypraeorbis;NA;genus;9730;Lutetian;;48.07;41.03
+1487289;occ;NA;NA;207005;Pseudozonaria nigropunctata;NA;species;187644;Pleistocene;;2.58;0.0117
+1499165;occ;NA;NA;59063;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1500671;occ;NA;NA;208935;Zonarina pinguis;NA;species;336819;Late Eocene;;37.71;33.9
+1501566;occ;NA;NA;209168;Cypraea;NA;genus;9724;Late Miocene;Pliocene;11.63;2.58
+1502215;occ;NA;NA;83985;Gisortia brevis;NA;species;341983;Thanetian;;59.24;56
+1502223;occ;NA;NA;83986;Gisortia brevis;NA;species;341983;Paleocene;Ypresian;66;48.07
+1502251;occ;NA;NA;83984;Vicetia sowerbyi;NA;species;342467;Selandian;Thanetian;61.66;56
+1502439;occ;NA;NA;84137;Cypraeorbis sphaeroides;NA;species;342312;Rupelian;;33.9;27.03
+1502583;occ;NA;NA;209387;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1502586;occ;NA;NA;209386;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1502587;occ;NA;NA;209390;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1502588;occ;NA;NA;209391;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1502602;occ;NA;NA;209398;Gisortia brevis;NA;species;341983;Selandian;Thanetian;61.66;56
+1502603;occ;NA;NA;209399;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1502604;occ;NA;NA;209400;Gisortia brevis;NA;species;341983;Lutetian;;48.07;41.03
+1504758;occ;NA;NA;209827;Cypraea;NA;genus;9724;Oligocene;Early Miocene;33.9;15.98
+1504892;occ;NA;NA;209855;Macrocypraea zebra;NA;species;109181;Holocene;;0.0117;0
+1549901;occ;NA;NA;160361;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1550986;occ;NA;NA;219029;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1574337;occ;NA;NA;222543;Umbilia furneauxensis;NA;species;442369;Late Pliocene;;3.6;2.58
+1575460;occ;NA;NA;222659;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1575475;occ;NA;NA;222660;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1580398;occ;NA;NA;223041;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1596079;occ;NA;NA;225667;Cypraea;NA;genus;9724;Late Pleistocene;;0.129;0.0117
+1601537;occ;NA;NA;52347;Neobernaya spadicea;NA;species;335362;Late Pleistocene;;0.129;0.0117
+1639610;occ;NA;NA;220448;Propustularia kemperae;NA;species;336476;Danian;Selandian;66;59.24
+1639611;occ;NA;NA;205394;Propustularia kemperae;NA;species;336476;Thanetian;;59.24;56
+1639612;occ;NA;NA;178718;Subepona goedertorum;NA;species;336210;Ypresian;;56;48.07
+1639613;occ;NA;NA;176361;Bernaya grovesi;NA;species;342624;Ypresian;;56;48.07
+1639614;occ;NA;NA;8012;Bernaya kaylinae;NA;species;479100;Lutetian;;48.07;41.03
+1639615;occ;NA;NA;8014;Bernaya kaylinae;NA;species;479100;Ypresian;Lutetian;56;41.03
+1639616;occ;NA;NA;173475;Bernaya kaylinae;NA;species;479100;Lutetian;;48.07;41.03
+1639618;occ;NA;NA;218667;Protocypraea;NA;genus;10325;Selandian;;61.66;59.24
+1639619;occ;NA;NA;189952;Cypraeidae;NA;family;60047;Thanetian;;59.24;56
+1667306;occ;NA;NA;220305;Vicetia bizzottoi;NA;species;499901;Priabonian;;37.71;33.9
+1678320;occ;NA;NA;237911;Cypraea;NA;genus;9724;Early Miocene;;23.04;15.98
+1684611;occ;NA;NA;238616;Neobernaya spadicea;NA;species;335362;Late Pliocene;;3.6;2.58
+1685547;occ;NA;NA;238730;Proadusta truncata;NA;species;504923;Rupelian;;33.9;27.03
+1685942;occ;NA;NA;238827;Cypraea;NA;genus;9724;Thanetian;;59.24;56
+1686227;occ;NA;NA;208580;Neobernaya spadicea;NA;species;335362;Early Pliocene;;5.333;3.6
+1688501;occ;NA;NA;239463;Neobernaya spadicea;NA;species;335362;Late Pliocene;;3.6;2.58
+1688532;occ;NA;NA;239465;Neobernaya spadicea;NA;species;335362;Late Pliocene;;3.6;2.58
+1689419;occ;NA;NA;239601;Propustularia kemperae;NA;species;336476;Selandian;;61.66;59.24
+1689752;occ;NA;NA;77172;Erronea (Gratiadusta) nasuta;NA;species;113705;Early Miocene;;23.04;15.98
+1689753;occ;NA;NA;77171;Erronea (Gratiadusta) nasuta;NA;species;113705;Early Miocene;;23.04;15.98
+1690013;occ;NA;NA;239685;Protocypraea simiensis;NA;species;336478;Selandian;Thanetian;61.66;56
+1690183;occ;NA;NA;239713;Protocypraea simiensis;NA;species;336478;Thanetian;;59.24;56
+1690242;occ;NA;NA;239721;Propustularia kemperae;NA;species;336476;Selandian;;61.66;59.24
+1691170;occ;NA;NA;190798;Bernaya;NA;genus;9543;Danian;;66;61.66
